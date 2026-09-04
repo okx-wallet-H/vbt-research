@@ -1,3 +1,4 @@
+# ⚠️ 存档副本，实际运行脚本在 backtest/，别用这个跑
 #!/usr/bin/env python3
 """实盘平仓记录器：查 OKX 历史持仓（完整平仓，不拆单），追加到 trade_log.json，统计止盈/止损胜率。
 
