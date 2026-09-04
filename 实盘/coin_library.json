@@ -1,0 +1,3646 @@
+{
+  "updated_at": "2026-09-04T05:11:17Z",
+  "count": 455,
+  "coins": {
+    "BTC": {
+      "instId": "BTC-USDT-SWAP",
+      "max_lever": "100",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "81030",
+      "vol_24h_usdt": "125478.7687"
+    },
+    "ETH": {
+      "instId": "ETH-USDT-SWAP",
+      "max_lever": "100",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "2513.2",
+      "vol_24h_usdt": "3663906.127"
+    },
+    "OKB": {
+      "instId": "OKB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "109.47",
+      "vol_24h_usdt": "196310.37"
+    },
+    "SOL": {
+      "instId": "SOL-USDT-SWAP",
+      "max_lever": "100",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "103.85",
+      "vol_24h_usdt": "12166586.36"
+    },
+    "DOGE": {
+      "instId": "DOGE-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.08726",
+      "vol_24h_usdt": "4224719320"
+    },
+    "XRP": {
+      "instId": "XRP-USDT-SWAP",
+      "max_lever": "100",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "1.4523",
+      "vol_24h_usdt": "595562618"
+    },
+    "BCH": {
+      "instId": "BCH-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "256",
+      "vol_24h_usdt": "143414.75"
+    },
+    "ZEC": {
+      "instId": "ZEC-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "951.56",
+      "vol_24h_usdt": "1333002.88"
+    },
+    "CP": {
+      "instId": "CP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.03664",
+      "vol_24h_usdt": "1328134000"
+    },
+    "EDGE": {
+      "instId": "EDGE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.6248",
+      "vol_24h_usdt": "251602030"
+    },
+    "ARB": {
+      "instId": "ARB-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.13576",
+      "vol_24h_usdt": "1685806492"
+    },
+    "0G": {
+      "instId": "0G-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1858",
+      "vol_24h_usdt": "30097642"
+    },
+    "1INCH": {
+      "instId": "1INCH-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.0926",
+      "vol_24h_usdt": "7853055"
+    },
+    "2Z": {
+      "instId": "2Z-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05312",
+      "vol_24h_usdt": "21974230"
+    },
+    "A": {
+      "instId": "A-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.07814",
+      "vol_24h_usdt": "4299900"
+    },
+    "AAOI": {
+      "instId": "AAOI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "102.77",
+      "vol_24h_usdt": "127251.35"
+    },
+    "AAPL": {
+      "instId": "AAPL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "328.42",
+      "vol_24h_usdt": "20693.67"
+    },
+    "AAVE": {
+      "instId": "AAVE-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "133.98",
+      "vol_24h_usdt": "351612.22"
+    },
+    "ACH": {
+      "instId": "ACH-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.005253",
+      "vol_24h_usdt": "55557000"
+    },
+    "ACT": {
+      "instId": "ACT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.01046",
+      "vol_24h_usdt": "69931544"
+    },
+    "ACU": {
+      "instId": "ACU-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.13291",
+      "vol_24h_usdt": "4575080"
+    },
+    "ADA": {
+      "instId": "ADA-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.2228",
+      "vol_24h_usdt": "331596040"
+    },
+    "ADBE": {
+      "instId": "ADBE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "279.51",
+      "vol_24h_usdt": "598.23"
+    },
+    "AEHR": {
+      "instId": "AEHR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "77.87",
+      "vol_24h_usdt": "2313.4"
+    },
+    "AEON": {
+      "instId": "AEON-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05334",
+      "vol_24h_usdt": "55225210"
+    },
+    "AERO": {
+      "instId": "AERO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.5072",
+      "vol_24h_usdt": "6133840"
+    },
+    "AEVO": {
+      "instId": "AEVO-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02251",
+      "vol_24h_usdt": "14384541"
+    },
+    "AGLD": {
+      "instId": "AGLD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.165",
+      "vol_24h_usdt": "1752020"
+    },
+    "AI": {
+      "instId": "AI-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.01945",
+      "vol_24h_usdt": "44033000"
+    },
+    "AIXBT": {
+      "instId": "AIXBT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02033",
+      "vol_24h_usdt": "36327250"
+    },
+    "ALAB": {
+      "instId": "ALAB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "287.86",
+      "vol_24h_usdt": "1277.82"
+    },
+    "ALGO": {
+      "instId": "ALGO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.09246",
+      "vol_24h_usdt": "55569700"
+    },
+    "ALLO": {
+      "instId": "ALLO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.23877",
+      "vol_24h_usdt": "15448950"
+    },
+    "AMAT": {
+      "instId": "AMAT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "441.88",
+      "vol_24h_usdt": "1664.74"
+    },
+    "AMD": {
+      "instId": "AMD-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "459.66",
+      "vol_24h_usdt": "17154.54"
+    },
+    "AMZN": {
+      "instId": "AMZN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "260.04",
+      "vol_24h_usdt": "11184.26"
+    },
+    "ANIME": {
+      "instId": "ANIME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.002745",
+      "vol_24h_usdt": "205372760"
+    },
+    "ANTHROPIC": {
+      "instId": "ANTHROPIC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "198.31",
+      "vol_24h_usdt": "2340.616"
+    },
+    "APE": {
+      "instId": "APE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.14014",
+      "vol_24h_usdt": "9982348.4"
+    },
+    "API3": {
+      "instId": "API3-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.2293",
+      "vol_24h_usdt": "1175846"
+    },
+    "APLD": {
+      "instId": "APLD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "26.01",
+      "vol_24h_usdt": "1029.3"
+    },
+    "APP": {
+      "instId": "APP-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "315.31",
+      "vol_24h_usdt": "902.8"
+    },
+    "APR": {
+      "instId": "APR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.2204",
+      "vol_24h_usdt": "179356520"
+    },
+    "APT": {
+      "instId": "APT-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.5954",
+      "vol_24h_usdt": "24344381"
+    },
+    "AR": {
+      "instId": "AR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "2.561",
+      "vol_24h_usdt": "3886055.2"
+    },
+    "ARKM": {
+      "instId": "ARKM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.10811",
+      "vol_24h_usdt": "4403069"
+    },
+    "ARM": {
+      "instId": "ARM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "245.97",
+      "vol_24h_usdt": "9898.71"
+    },
+    "ARX": {
+      "instId": "ARX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1284",
+      "vol_24h_usdt": "2971600"
+    },
+    "ASML": {
+      "instId": "ASML-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1659.07",
+      "vol_24h_usdt": "262.341"
+    },
+    "ASTER": {
+      "instId": "ASTER-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.7219",
+      "vol_24h_usdt": "21009317"
+    },
+    "ASTS": {
+      "instId": "ASTS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "62.88",
+      "vol_24h_usdt": "18909.64"
+    },
+    "AT": {
+      "instId": "AT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1482",
+      "vol_24h_usdt": "1243030"
+    },
+    "ATH": {
+      "instId": "ATH-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.004665",
+      "vol_24h_usdt": "98885900"
+    },
+    "ATOM": {
+      "instId": "ATOM-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1.514",
+      "vol_24h_usdt": "1601182"
+    },
+    "AUCTION": {
+      "instId": "AUCTION-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "3.363",
+      "vol_24h_usdt": "404432.6"
+    },
+    "AVAX": {
+      "instId": "AVAX-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "7.495",
+      "vol_24h_usdt": "2242769.3"
+    },
+    "AVGO": {
+      "instId": "AVGO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "361.22",
+      "vol_24h_usdt": "48915.14"
+    },
+    "AVNT": {
+      "instId": "AVNT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.10504",
+      "vol_24h_usdt": "14598931"
+    },
+    "AXS": {
+      "instId": "AXS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.9382",
+      "vol_24h_usdt": "1969842.2"
+    },
+    "AXTI": {
+      "instId": "AXTI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "58.23",
+      "vol_24h_usdt": "198832.48"
+    },
+    "AZTEC": {
+      "instId": "AZTEC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.01395",
+      "vol_24h_usdt": "27160200"
+    },
+    "BABY": {
+      "instId": "BABY-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.011086",
+      "vol_24h_usdt": "27657630"
+    },
+    "BAND": {
+      "instId": "BAND-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1839",
+      "vol_24h_usdt": "595385"
+    },
+    "BARD": {
+      "instId": "BARD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1201",
+      "vol_24h_usdt": "6969794"
+    },
+    "BASED": {
+      "instId": "BASED-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.06985",
+      "vol_24h_usdt": "33907730"
+    },
+    "BAT": {
+      "instId": "BAT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.07064",
+      "vol_24h_usdt": "7630010"
+    },
+    "BB": {
+      "instId": "BB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "7.775",
+      "vol_24h_usdt": "65752"
+    },
+    "BE": {
+      "instId": "BE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "239.88",
+      "vol_24h_usdt": "20974.87"
+    },
+    "BEAT": {
+      "instId": "BEAT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.121",
+      "vol_24h_usdt": "147494782"
+    },
+    "BERA": {
+      "instId": "BERA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.1783",
+      "vol_24h_usdt": "9439133.6"
+    },
+    "BICO": {
+      "instId": "BICO-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02182",
+      "vol_24h_usdt": "395746796"
+    },
+    "BIGTIME": {
+      "instId": "BIGTIME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.006486",
+      "vol_24h_usdt": "67127620"
+    },
+    "BILL": {
+      "instId": "BILL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.01659",
+      "vol_24h_usdt": "99970200"
+    },
+    "BIO": {
+      "instId": "BIO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02756",
+      "vol_24h_usdt": "102116547"
+    },
+    "BLEND": {
+      "instId": "BLEND-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.06264",
+      "vol_24h_usdt": "2304640"
+    },
+    "BLUR": {
+      "instId": "BLUR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0164",
+      "vol_24h_usdt": "50319800"
+    },
+    "BMNR": {
+      "instId": "BMNR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "26.18",
+      "vol_24h_usdt": "132917.8"
+    },
+    "BNB": {
+      "instId": "BNB-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "725.8",
+      "vol_24h_usdt": "112531.57"
+    },
+    "BOME": {
+      "instId": "BOME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.0008775",
+      "vol_24h_usdt": "8777648000"
+    },
+    "BONK": {
+      "instId": "BONK-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100000",
+      "ct_mult": "1",
+      "last": "0.000003118",
+      "vol_24h_usdt": "2538416900000"
+    },
+    "BOT": {
+      "instId": "BOT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "26.62",
+      "vol_24h_usdt": "5913.8"
+    },
+    "BRETT": {
+      "instId": "BRETT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.00502",
+      "vol_24h_usdt": "32528400"
+    },
+    "BREV": {
+      "instId": "BREV-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.07595",
+      "vol_24h_usdt": "4118187"
+    },
+    "BRKB": {
+      "instId": "BRKB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "509.41",
+      "vol_24h_usdt": "163.11"
+    },
+    "BSB": {
+      "instId": "BSB-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1077",
+      "vol_24h_usdt": "29238070"
+    },
+    "BSP": {
+      "instId": "BSP-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "41.79",
+      "vol_24h_usdt": "2993.8"
+    },
+    "BX": {
+      "instId": "BX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "137.46",
+      "vol_24h_usdt": "502.78"
+    },
+    "BZ": {
+      "instId": "BZ-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "95.46",
+      "vol_24h_usdt": "353294.88"
+    },
+    "CAP": {
+      "instId": "CAP-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.04634",
+      "vol_24h_usdt": "1113665500"
+    },
+    "CASHCAT": {
+      "instId": "CASHCAT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.267",
+      "vol_24h_usdt": "75698660"
+    },
+    "CBRS": {
+      "instId": "CBRS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "191.54",
+      "vol_24h_usdt": "24539.24"
+    },
+    "CC": {
+      "instId": "CC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.11129",
+      "vol_24h_usdt": "19808710"
+    },
+    "CELO": {
+      "instId": "CELO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.07653",
+      "vol_24h_usdt": "8298340"
+    },
+    "CFX": {
+      "instId": "CFX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04779",
+      "vol_24h_usdt": "47174260"
+    },
+    "CGNX": {
+      "instId": "CGNX-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "61.09",
+      "vol_24h_usdt": "319.7"
+    },
+    "CHIP": {
+      "instId": "CHIP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.05949",
+      "vol_24h_usdt": "1954706000"
+    },
+    "CHZ": {
+      "instId": "CHZ-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.01366",
+      "vol_24h_usdt": "96433620"
+    },
+    "CIEN": {
+      "instId": "CIEN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "319.69",
+      "vol_24h_usdt": "3596.03"
+    },
+    "CL": {
+      "instId": "CL-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "91.43",
+      "vol_24h_usdt": "1649084.5"
+    },
+    "COAI": {
+      "instId": "COAI-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.3236",
+      "vol_24h_usdt": "5304553.3"
+    },
+    "COHR": {
+      "instId": "COHR-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "270",
+      "vol_24h_usdt": "4762.39"
+    },
+    "COIN": {
+      "instId": "COIN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "191.93",
+      "vol_24h_usdt": "22669.98"
+    },
+    "COMP": {
+      "instId": "COMP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "19.98",
+      "vol_24h_usdt": "91745.7"
+    },
+    "CORE": {
+      "instId": "CORE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02206",
+      "vol_24h_usdt": "185867589"
+    },
+    "COST": {
+      "instId": "COST-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "925.05",
+      "vol_24h_usdt": "120.928"
+    },
+    "CRCL": {
+      "instId": "CRCL-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "102.01",
+      "vol_24h_usdt": "814619.4"
+    },
+    "CRDO": {
+      "instId": "CRDO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "165.84",
+      "vol_24h_usdt": "12895.02"
+    },
+    "CRM": {
+      "instId": "CRM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "264.72",
+      "vol_24h_usdt": "1866.87"
+    },
+    "CRO": {
+      "instId": "CRO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05787",
+      "vol_24h_usdt": "30176310"
+    },
+    "CRV": {
+      "instId": "CRV-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.3686",
+      "vol_24h_usdt": "46735244"
+    },
+    "CRWV": {
+      "instId": "CRWV-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "85.12",
+      "vol_24h_usdt": "29988.23"
+    },
+    "CRWD": {
+      "instId": "CRWD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "214.63",
+      "vol_24h_usdt": "1008.23"
+    },
+    "CSCO": {
+      "instId": "CSCO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "108.77",
+      "vol_24h_usdt": "617.96"
+    },
+    "CSOPSKHYNIX2L": {
+      "instId": "CSOPSKHYNIX2L-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "4.66",
+      "vol_24h_usdt": "74166"
+    },
+    "CSOPSAMSUNG2L": {
+      "instId": "CSOPSAMSUNG2L-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "9.13",
+      "vol_24h_usdt": "24938"
+    },
+    "CVX": {
+      "instId": "CVX-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "2.321",
+      "vol_24h_usdt": "226355"
+    },
+    "CXMT": {
+      "instId": "CXMT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "8.3",
+      "vol_24h_usdt": "669521"
+    },
+    "DASH": {
+      "instId": "DASH-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "50.68",
+      "vol_24h_usdt": "648109.95"
+    },
+    "DDOG": {
+      "instId": "DDOG-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "215.43",
+      "vol_24h_usdt": "3026.61"
+    },
+    "DELL": {
+      "instId": "DELL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "519.31",
+      "vol_24h_usdt": "28925.57"
+    },
+    "DGAI": {
+      "instId": "DGAI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.783",
+      "vol_24h_usdt": "11506450"
+    },
+    "DKNG": {
+      "instId": "DKNG-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "24.17",
+      "vol_24h_usdt": "2351.7"
+    },
+    "DOOD": {
+      "instId": "DOOD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.00135",
+      "vol_24h_usdt": "134791000"
+    },
+    "DOS": {
+      "instId": "DOS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.2498",
+      "vol_24h_usdt": "24433430"
+    },
+    "DOT": {
+      "instId": "DOT-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.8779",
+      "vol_24h_usdt": "13308747"
+    },
+    "DRAM": {
+      "instId": "DRAM-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "57.1",
+      "vol_24h_usdt": "175755.8"
+    },
+    "DYDX": {
+      "instId": "DYDX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.11443",
+      "vol_24h_usdt": "13976527"
+    },
+    "EDEN": {
+      "instId": "EDEN-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.0619",
+      "vol_24h_usdt": "74610857"
+    },
+    "EGLD": {
+      "instId": "EGLD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "4.619",
+      "vol_24h_usdt": "2841202.2"
+    },
+    "EIGEN": {
+      "instId": "EIGEN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.2015",
+      "vol_24h_usdt": "8435447"
+    },
+    "ENA": {
+      "instId": "ENA-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.16471",
+      "vol_24h_usdt": "799322060"
+    },
+    "ENJ": {
+      "instId": "ENJ-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02638",
+      "vol_24h_usdt": "17947570"
+    },
+    "ENS": {
+      "instId": "ENS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "5.846",
+      "vol_24h_usdt": "520356.3"
+    },
+    "ENSO": {
+      "instId": "ENSO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.875",
+      "vol_24h_usdt": "1699667"
+    },
+    "ESP": {
+      "instId": "ESP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.08507",
+      "vol_24h_usdt": "31579100"
+    },
+    "ETC": {
+      "instId": "ETC-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "7.59",
+      "vol_24h_usdt": "1170614.7"
+    },
+    "ETHW": {
+      "instId": "ETHW-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.266",
+      "vol_24h_usdt": "1166274.9"
+    },
+    "ETHFI": {
+      "instId": "ETHFI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.5734",
+      "vol_24h_usdt": "14240295"
+    },
+    "EWJ": {
+      "instId": "EWJ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "97.74",
+      "vol_24h_usdt": "1393.15"
+    },
+    "EWY": {
+      "instId": "EWY-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "181.47",
+      "vol_24h_usdt": "38257.27"
+    },
+    "EWZ": {
+      "instId": "EWZ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "38.13",
+      "vol_24h_usdt": "2069.9"
+    },
+    "F": {
+      "instId": "F-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.003305",
+      "vol_24h_usdt": "48056100"
+    },
+    "FARTCOIN": {
+      "instId": "FARTCOIN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1702",
+      "vol_24h_usdt": "44034225"
+    },
+    "FIL": {
+      "instId": "FIL-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.7755",
+      "vol_24h_usdt": "94121395.4"
+    },
+    "FLNC": {
+      "instId": "FLNC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "10.33",
+      "vol_24h_usdt": "46861.3"
+    },
+    "FLOKI": {
+      "instId": "FLOKI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100000",
+      "ct_mult": "1",
+      "last": "0.00002558",
+      "vol_24h_usdt": "43644000000"
+    },
+    "FLOW": {
+      "instId": "FLOW-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02749",
+      "vol_24h_usdt": "15029160"
+    },
+    "FLY": {
+      "instId": "FLY-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "21.25",
+      "vol_24h_usdt": "1260.3"
+    },
+    "FOGO": {
+      "instId": "FOGO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.00709",
+      "vol_24h_usdt": "85402980"
+    },
+    "FWDI": {
+      "instId": "FWDI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "6.797",
+      "vol_24h_usdt": "32519"
+    },
+    "GALA": {
+      "instId": "GALA-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.001762",
+      "vol_24h_usdt": "1013487530"
+    },
+    "GAS": {
+      "instId": "GAS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1.2342",
+      "vol_24h_usdt": "234896"
+    },
+    "GEV": {
+      "instId": "GEV-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "944.67",
+      "vol_24h_usdt": "374.431"
+    },
+    "GIGGLE": {
+      "instId": "GIGGLE-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "38.41",
+      "vol_24h_usdt": "101249.9"
+    },
+    "GLM": {
+      "instId": "GLM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1074",
+      "vol_24h_usdt": "2671620"
+    },
+    "GLW": {
+      "instId": "GLW-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "147.76",
+      "vol_24h_usdt": "13002.98"
+    },
+    "GME": {
+      "instId": "GME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "19.37",
+      "vol_24h_usdt": "7448.2"
+    },
+    "GMT": {
+      "instId": "GMT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.007323",
+      "vol_24h_usdt": "58493714"
+    },
+    "GMX": {
+      "instId": "GMX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "7.334",
+      "vol_24h_usdt": "31884.4"
+    },
+    "GOOGL": {
+      "instId": "GOOGL-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "343.38",
+      "vol_24h_usdt": "29270.96"
+    },
+    "GPS": {
+      "instId": "GPS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.01049",
+      "vol_24h_usdt": "477919760"
+    },
+    "GRASS": {
+      "instId": "GRASS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.3523",
+      "vol_24h_usdt": "5867878"
+    },
+    "GRT": {
+      "instId": "GRT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.01704",
+      "vol_24h_usdt": "41927190"
+    },
+    "GRVT": {
+      "instId": "GRVT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1603",
+      "vol_24h_usdt": "38055920"
+    },
+    "H": {
+      "instId": "H-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.07855",
+      "vol_24h_usdt": "77257200"
+    },
+    "HBAR": {
+      "instId": "HBAR-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.07813",
+      "vol_24h_usdt": "77235590"
+    },
+    "HIMS": {
+      "instId": "HIMS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "27.97",
+      "vol_24h_usdt": "6265.1"
+    },
+    "HMSTR": {
+      "instId": "HMSTR-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.0001756",
+      "vol_24h_usdt": "5253714600"
+    },
+    "HOME": {
+      "instId": "HOME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.006034",
+      "vol_24h_usdt": "477623400"
+    },
+    "HOOD": {
+      "instId": "HOOD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "125.63",
+      "vol_24h_usdt": "81656.7"
+    },
+    "HPE": {
+      "instId": "HPE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "54.15",
+      "vol_24h_usdt": "19763.4"
+    },
+    "HUMA": {
+      "instId": "HUMA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.02199",
+      "vol_24h_usdt": "31153400"
+    },
+    "HYPE": {
+      "instId": "HYPE-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "86.442",
+      "vol_24h_usdt": "4976381.8"
+    },
+    "HYUNDAI": {
+      "instId": "HYUNDAI-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "284.03",
+      "vol_24h_usdt": "247.85"
+    },
+    "IBM": {
+      "instId": "IBM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "234.57",
+      "vol_24h_usdt": "1409.59"
+    },
+    "ICP": {
+      "instId": "ICP-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "2.55",
+      "vol_24h_usdt": "2324549.36"
+    },
+    "ICX": {
+      "instId": "ICX-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0099",
+      "vol_24h_usdt": "66344340"
+    },
+    "IMX": {
+      "instId": "IMX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.12505",
+      "vol_24h_usdt": "5695477"
+    },
+    "INFQ": {
+      "instId": "INFQ-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "12.733",
+      "vol_24h_usdt": "12076.7"
+    },
+    "INIT": {
+      "instId": "INIT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.06161",
+      "vol_24h_usdt": "2047870"
+    },
+    "INJ": {
+      "instId": "INJ-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "4.846",
+      "vol_24h_usdt": "1545715.3"
+    },
+    "INTC": {
+      "instId": "INTC-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "92.83",
+      "vol_24h_usdt": "362922.2"
+    },
+    "INTW": {
+      "instId": "INTW-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "19.69",
+      "vol_24h_usdt": "14994.8"
+    },
+    "IONQ": {
+      "instId": "IONQ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "39.93",
+      "vol_24h_usdt": "12704.1"
+    },
+    "IOST": {
+      "instId": "IOST-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.000606",
+      "vol_24h_usdt": "286928000"
+    },
+    "IOTA": {
+      "instId": "IOTA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04082",
+      "vol_24h_usdt": "17177910"
+    },
+    "DATA": {
+      "instId": "DATA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1913",
+      "vol_24h_usdt": "7623880"
+    },
+    "IREN": {
+      "instId": "IREN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "41.72",
+      "vol_24h_usdt": "35454.9"
+    },
+    "IRYS": {
+      "instId": "IRYS-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.01366",
+      "vol_24h_usdt": "4314300"
+    },
+    "ISRG": {
+      "instId": "ISRG-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "370.29",
+      "vol_24h_usdt": "192.66"
+    },
+    "IWM": {
+      "instId": "IWM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "295.44",
+      "vol_24h_usdt": "269.12"
+    },
+    "JELLYJELLY": {
+      "instId": "JELLYJELLY-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.05712",
+      "vol_24h_usdt": "4816200"
+    },
+    "JNJ": {
+      "instId": "JNJ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "278.38",
+      "vol_24h_usdt": "135.74"
+    },
+    "JTO": {
+      "instId": "JTO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.4313",
+      "vol_24h_usdt": "18029117"
+    },
+    "JUP": {
+      "instId": "JUP-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.2247",
+      "vol_24h_usdt": "24601190"
+    },
+    "KAITO": {
+      "instId": "KAITO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.3033",
+      "vol_24h_usdt": "13334975"
+    },
+    "KAT": {
+      "instId": "KAT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.004506",
+      "vol_24h_usdt": "135156900"
+    },
+    "KGEN": {
+      "instId": "KGEN-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1801",
+      "vol_24h_usdt": "3196890"
+    },
+    "KIOXIA": {
+      "instId": "KIOXIA-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "349.24",
+      "vol_24h_usdt": "2141.17"
+    },
+    "KITE": {
+      "instId": "KITE-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.13435",
+      "vol_24h_usdt": "15048510"
+    },
+    "KLAC": {
+      "instId": "KLAC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "175.03",
+      "vol_24h_usdt": "658.97"
+    },
+    "KMNO": {
+      "instId": "KMNO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.02448",
+      "vol_24h_usdt": "15776600"
+    },
+    "KO": {
+      "instId": "KO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "89",
+      "vol_24h_usdt": "2793.2"
+    },
+    "KORU": {
+      "instId": "KORU-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "20.93",
+      "vol_24h_usdt": "3511786.89"
+    },
+    "KR200": {
+      "instId": "KR200-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1056.51",
+      "vol_24h_usdt": "63.182"
+    },
+    "KSM": {
+      "instId": "KSM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "3.617",
+      "vol_24h_usdt": "284616.6"
+    },
+    "LA": {
+      "instId": "LA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0648",
+      "vol_24h_usdt": "193945780"
+    },
+    "LAB": {
+      "instId": "LAB-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.07213",
+      "vol_24h_usdt": "62550218"
+    },
+    "LAYER": {
+      "instId": "LAYER-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.06889",
+      "vol_24h_usdt": "6294589"
+    },
+    "LDO": {
+      "instId": "LDO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.3875",
+      "vol_24h_usdt": "14874815"
+    },
+    "LIGHT": {
+      "instId": "LIGHT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.177",
+      "vol_24h_usdt": "5884736"
+    },
+    "LINK": {
+      "instId": "LINK-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "11.956",
+      "vol_24h_usdt": "4376015.9"
+    },
+    "LINEA": {
+      "instId": "LINEA-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.002536",
+      "vol_24h_usdt": "350663000"
+    },
+    "LIT": {
+      "instId": "LIT-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "4.2728",
+      "vol_24h_usdt": "30325930"
+    },
+    "LITE": {
+      "instId": "LITE-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "859.27",
+      "vol_24h_usdt": "13861.87"
+    },
+    "LLY": {
+      "instId": "LLY-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1160.17",
+      "vol_24h_usdt": "216.54"
+    },
+    "LPT": {
+      "instId": "LPT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "1.467",
+      "vol_24h_usdt": "5188068.5"
+    },
+    "LQTY": {
+      "instId": "LQTY-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.2209",
+      "vol_24h_usdt": "783213"
+    },
+    "LRCX": {
+      "instId": "LRCX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "297.05",
+      "vol_24h_usdt": "447.34"
+    },
+    "LTC": {
+      "instId": "LTC-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "51.08",
+      "vol_24h_usdt": "511361"
+    },
+    "LUNA": {
+      "instId": "LUNA-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.04582",
+      "vol_24h_usdt": "14126847"
+    },
+    "LUNR": {
+      "instId": "LUNR-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "14.83",
+      "vol_24h_usdt": "3244.7"
+    },
+    "LYTE": {
+      "instId": "LYTE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "23.45",
+      "vol_24h_usdt": "6634.6"
+    },
+    "MAGIC": {
+      "instId": "MAGIC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.04474",
+      "vol_24h_usdt": "8093311"
+    },
+    "MANA": {
+      "instId": "MANA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.07547",
+      "vol_24h_usdt": "8224500"
+    },
+    "MARA": {
+      "instId": "MARA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "11.56",
+      "vol_24h_usdt": "11475.8"
+    },
+    "MASK": {
+      "instId": "MASK-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.4445",
+      "vol_24h_usdt": "906558"
+    },
+    "ME": {
+      "instId": "ME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.06349",
+      "vol_24h_usdt": "5413626"
+    },
+    "MEGA": {
+      "instId": "MEGA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.03931",
+      "vol_24h_usdt": "62753450"
+    },
+    "MEME": {
+      "instId": "MEME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.0005307",
+      "vol_24h_usdt": "1132401100"
+    },
+    "MERL": {
+      "instId": "MERL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02247",
+      "vol_24h_usdt": "328583083"
+    },
+    "METIS": {
+      "instId": "METIS-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "2.751",
+      "vol_24h_usdt": "105689.6"
+    },
+    "MET": {
+      "instId": "MET-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1956",
+      "vol_24h_usdt": "2644206"
+    },
+    "META": {
+      "instId": "META-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "614.57",
+      "vol_24h_usdt": "8760.98"
+    },
+    "MEW": {
+      "instId": "MEW-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.0004224",
+      "vol_24h_usdt": "861773000"
+    },
+    "MINA": {
+      "instId": "MINA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.07296",
+      "vol_24h_usdt": "10815469"
+    },
+    "MINIMAX": {
+      "instId": "MINIMAX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "48",
+      "vol_24h_usdt": "282672.7"
+    },
+    "MMT": {
+      "instId": "MMT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1678",
+      "vol_24h_usdt": "21369740"
+    },
+    "MON": {
+      "instId": "MON-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0266",
+      "vol_24h_usdt": "214955900"
+    },
+    "MOODENG": {
+      "instId": "MOODENG-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04092",
+      "vol_24h_usdt": "41513990"
+    },
+    "MOONSHOT": {
+      "instId": "MOONSHOT-USDT-SWAP",
+      "max_lever": "5",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "72.75",
+      "vol_24h_usdt": "1822.4"
+    },
+    "MORPHO": {
+      "instId": "MORPHO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "2.4793",
+      "vol_24h_usdt": "1383085"
+    },
+    "MOVE": {
+      "instId": "MOVE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.009348",
+      "vol_24h_usdt": "430473640"
+    },
+    "MRK": {
+      "instId": "MRK-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "152.07",
+      "vol_24h_usdt": "179.67"
+    },
+    "MRNA": {
+      "instId": "MRNA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "148.74",
+      "vol_24h_usdt": "29915.3"
+    },
+    "MRVL": {
+      "instId": "MRVL-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "211.82",
+      "vol_24h_usdt": "92491.1"
+    },
+    "MSFT": {
+      "instId": "MSFT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "509.66",
+      "vol_24h_usdt": "14011.07"
+    },
+    "MSTR": {
+      "instId": "MSTR-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "143.6",
+      "vol_24h_usdt": "439694.08"
+    },
+    "MU": {
+      "instId": "MU-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "970.8",
+      "vol_24h_usdt": "156517.98"
+    },
+    "MUBARAK": {
+      "instId": "MUBARAK-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.030477",
+      "vol_24h_usdt": "616594200"
+    },
+    "MUU": {
+      "instId": "MUU-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "31.4",
+      "vol_24h_usdt": "131424"
+    },
+    "MVLL": {
+      "instId": "MVLL-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "23.84",
+      "vol_24h_usdt": "81959.2"
+    },
+    "NBIS": {
+      "instId": "NBIS-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "213.89",
+      "vol_24h_usdt": "38490.82"
+    },
+    "NEAR": {
+      "instId": "NEAR-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "1.944",
+      "vol_24h_usdt": "18725758"
+    },
+    "NEIRO": {
+      "instId": "NEIRO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.00008769",
+      "vol_24h_usdt": "18490510000"
+    },
+    "NEO": {
+      "instId": "NEO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "2.09",
+      "vol_24h_usdt": "130679"
+    },
+    "NES": {
+      "instId": "NES-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1357",
+      "vol_24h_usdt": "26861360"
+    },
+    "NET": {
+      "instId": "NET-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "285.85",
+      "vol_24h_usdt": "231.19"
+    },
+    "NFLX": {
+      "instId": "NFLX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "82.36",
+      "vol_24h_usdt": "2481.82"
+    },
+    "NG": {
+      "instId": "NG-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "2.927",
+      "vol_24h_usdt": "1099515"
+    },
+    "NIGHT": {
+      "instId": "NIGHT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.021779",
+      "vol_24h_usdt": "181254800"
+    },
+    "NMR": {
+      "instId": "NMR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "8.898",
+      "vol_24h_usdt": "16824.6"
+    },
+    "NOK": {
+      "instId": "NOK-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "9.872",
+      "vol_24h_usdt": "61054.8"
+    },
+    "NOT": {
+      "instId": "NOT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.0004481",
+      "vol_24h_usdt": "2120197400"
+    },
+    "NOW": {
+      "instId": "NOW-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "145.16",
+      "vol_24h_usdt": "2823.93"
+    },
+    "NVDA": {
+      "instId": "NVDA-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "230.39",
+      "vol_24h_usdt": "166131.35"
+    },
+    "NVDL": {
+      "instId": "NVDL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "37.6",
+      "vol_24h_usdt": "8910.3"
+    },
+    "O": {
+      "instId": "O-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.5537",
+      "vol_24h_usdt": "5535610"
+    },
+    "OFC": {
+      "instId": "OFC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.008766",
+      "vol_24h_usdt": "60151400"
+    },
+    "OKTA": {
+      "instId": "OKTA-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "170.2",
+      "vol_24h_usdt": "3028.93"
+    },
+    "OL": {
+      "instId": "OL-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.004966",
+      "vol_24h_usdt": "57106100"
+    },
+    "ON": {
+      "instId": "ON-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "73.99",
+      "vol_24h_usdt": "1176.1"
+    },
+    "ONDO": {
+      "instId": "ONDO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.3641",
+      "vol_24h_usdt": "55183520"
+    },
+    "ONDS": {
+      "instId": "ONDS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "7.695",
+      "vol_24h_usdt": "21037"
+    },
+    "ONE": {
+      "instId": "ONE-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.0007238",
+      "vol_24h_usdt": "385129800"
+    },
+    "ONT": {
+      "instId": "ONT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05561",
+      "vol_24h_usdt": "40851760"
+    },
+    "OP": {
+      "instId": "OP-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.09991",
+      "vol_24h_usdt": "159702324"
+    },
+    "OPENAI": {
+      "instId": "OPENAI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "142.45",
+      "vol_24h_usdt": "11949.21"
+    },
+    "OPG": {
+      "instId": "OPG-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.10096",
+      "vol_24h_usdt": "3866480"
+    },
+    "OPN": {
+      "instId": "OPN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0558",
+      "vol_24h_usdt": "20859450"
+    },
+    "ORCL": {
+      "instId": "ORCL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "155.71",
+      "vol_24h_usdt": "25609.18"
+    },
+    "ORDI": {
+      "instId": "ORDI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "4.141",
+      "vol_24h_usdt": "2806303.6"
+    },
+    "ORDER": {
+      "instId": "ORDER-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.03371",
+      "vol_24h_usdt": "4495370"
+    },
+    "OSCR": {
+      "instId": "OSCR-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "32.11",
+      "vol_24h_usdt": "1020.5"
+    },
+    "OUST": {
+      "instId": "OUST-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "36.42",
+      "vol_24h_usdt": "1279.9"
+    },
+    "PARTI": {
+      "instId": "PARTI-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02473",
+      "vol_24h_usdt": "23855910"
+    },
+    "PENGU": {
+      "instId": "PENGU-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.008606",
+      "vol_24h_usdt": "2788826300"
+    },
+    "PENDLE": {
+      "instId": "PENDLE-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1.942",
+      "vol_24h_usdt": "1534555"
+    },
+    "PENG": {
+      "instId": "PENG-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "49.68",
+      "vol_24h_usdt": "1033.4"
+    },
+    "PEOPLE": {
+      "instId": "PEOPLE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.008179",
+      "vol_24h_usdt": "709749200"
+    },
+    "PEPE": {
+      "instId": "PEPE-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10000000",
+      "ct_mult": "1",
+      "last": "0.000003667",
+      "vol_24h_usdt": "43371012000000"
+    },
+    "PI": {
+      "instId": "PI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.09529",
+      "vol_24h_usdt": "34038056"
+    },
+    "PIEVERSE": {
+      "instId": "PIEVERSE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "1.0895",
+      "vol_24h_usdt": "2774810"
+    },
+    "PIPPIN": {
+      "instId": "PIPPIN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.01979",
+      "vol_24h_usdt": "212530260"
+    },
+    "PLTR": {
+      "instId": "PLTR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "182.94",
+      "vol_24h_usdt": "16627.16"
+    },
+    "PLUME": {
+      "instId": "PLUME-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.014156",
+      "vol_24h_usdt": "43037440"
+    },
+    "PNUT": {
+      "instId": "PNUT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04923",
+      "vol_24h_usdt": "45664520"
+    },
+    "POET": {
+      "instId": "POET-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "7.47",
+      "vol_24h_usdt": "7014.5"
+    },
+    "POL": {
+      "instId": "POL-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.09404",
+      "vol_24h_usdt": "50136030"
+    },
+    "POPCAT": {
+      "instId": "POPCAT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0526",
+      "vol_24h_usdt": "8540740"
+    },
+    "POPMART": {
+      "instId": "POPMART-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "19.82",
+      "vol_24h_usdt": "7548.9"
+    },
+    "PROVE": {
+      "instId": "PROVE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1804",
+      "vol_24h_usdt": "2865201"
+    },
+    "PROS": {
+      "instId": "PROS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.4063",
+      "vol_24h_usdt": "510226"
+    },
+    "PUMP": {
+      "instId": "PUMP-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.004357",
+      "vol_24h_usdt": "35936848000"
+    },
+    "PURR": {
+      "instId": "PURR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "12.74",
+      "vol_24h_usdt": "121062.2"
+    },
+    "PYPL": {
+      "instId": "PYPL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "56.57",
+      "vol_24h_usdt": "10511.6"
+    },
+    "PYTH": {
+      "instId": "PYTH-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05465",
+      "vol_24h_usdt": "64667430"
+    },
+    "QCOM": {
+      "instId": "QCOM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "170.2",
+      "vol_24h_usdt": "9367.94"
+    },
+    "QNT": {
+      "instId": "QNT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "49.48",
+      "vol_24h_usdt": "6221.7"
+    },
+    "QQQ": {
+      "instId": "QQQ-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "720.07",
+      "vol_24h_usdt": "23780.43"
+    },
+    "QTUM": {
+      "instId": "QTUM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.8631",
+      "vol_24h_usdt": "961851"
+    },
+    "RAM": {
+      "instId": "RAM-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "12.59",
+      "vol_24h_usdt": "33537"
+    },
+    "RAVE": {
+      "instId": "RAVE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.2512",
+      "vol_24h_usdt": "7507367.3"
+    },
+    "RAY": {
+      "instId": "RAY-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.8375",
+      "vol_24h_usdt": "1861697"
+    },
+    "RDDT": {
+      "instId": "RDDT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "156.62",
+      "vol_24h_usdt": "1104.46"
+    },
+    "RDW": {
+      "instId": "RDW-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "10.5",
+      "vol_24h_usdt": "17398.9"
+    },
+    "RE": {
+      "instId": "RE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.45477",
+      "vol_24h_usdt": "13468960"
+    },
+    "RECALL": {
+      "instId": "RECALL-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04143",
+      "vol_24h_usdt": "19661510"
+    },
+    "RENDER": {
+      "instId": "RENDER-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1.46",
+      "vol_24h_usdt": "1435056"
+    },
+    "RESOLV": {
+      "instId": "RESOLV-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.01757",
+      "vol_24h_usdt": "34513920"
+    },
+    "RIOT": {
+      "instId": "RIOT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "21.07",
+      "vol_24h_usdt": "3867.3"
+    },
+    "RIVER": {
+      "instId": "RIVER-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "1.286",
+      "vol_24h_usdt": "3359881.7"
+    },
+    "RIVN": {
+      "instId": "RIVN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "15.97",
+      "vol_24h_usdt": "1229.6"
+    },
+    "RKLB": {
+      "instId": "RKLB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "64.8",
+      "vol_24h_usdt": "62408.67"
+    },
+    "RLS": {
+      "instId": "RLS-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.002021",
+      "vol_24h_usdt": "168324600"
+    },
+    "ROBO": {
+      "instId": "ROBO-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.01172",
+      "vol_24h_usdt": "274988500"
+    },
+    "ROK": {
+      "instId": "ROK-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "429.53",
+      "vol_24h_usdt": "50.3"
+    },
+    "RSR": {
+      "instId": "RSR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.00137",
+      "vol_24h_usdt": "224102900"
+    },
+    "RVN": {
+      "instId": "RVN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.00308",
+      "vol_24h_usdt": "76923380"
+    },
+    "S": {
+      "instId": "S-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02788",
+      "vol_24h_usdt": "15078410"
+    },
+    "SAHARA": {
+      "instId": "SAHARA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.008868",
+      "vol_24h_usdt": "190025920"
+    },
+    "SAMSUNG": {
+      "instId": "SAMSUNG-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "190.03",
+      "vol_24h_usdt": "89284.79"
+    },
+    "SAND": {
+      "instId": "SAND-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.03942",
+      "vol_24h_usdt": "70668400"
+    },
+    "SAPIEN": {
+      "instId": "SAPIEN-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.07937",
+      "vol_24h_usdt": "798640"
+    },
+    "SATS": {
+      "instId": "SATS-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10000000",
+      "ct_mult": "1",
+      "last": "0.000000011068",
+      "vol_24h_usdt": "119604420000000"
+    },
+    "SEI": {
+      "instId": "SEI-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04863",
+      "vol_24h_usdt": "32853460"
+    },
+    "SENT": {
+      "instId": "SENT-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.01293",
+      "vol_24h_usdt": "35271000"
+    },
+    "SHAZ": {
+      "instId": "SHAZ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "55.13",
+      "vol_24h_usdt": "2565.5"
+    },
+    "SHELL": {
+      "instId": "SHELL-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02239",
+      "vol_24h_usdt": "6898120"
+    },
+    "SHEIN": {
+      "instId": "SHEIN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "5.14",
+      "vol_24h_usdt": "181611"
+    },
+    "SHIB": {
+      "instId": "SHIB-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1000000",
+      "ct_mult": "1",
+      "last": "0.000005349",
+      "vol_24h_usdt": "3020962900000"
+    },
+    "SHLD": {
+      "instId": "SHLD-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "64.03",
+      "vol_24h_usdt": "371"
+    },
+    "SHOP": {
+      "instId": "SHOP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "145.78",
+      "vol_24h_usdt": "217.92"
+    },
+    "SIGN": {
+      "instId": "SIGN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.00951",
+      "vol_24h_usdt": "70273400"
+    },
+    "SIMO": {
+      "instId": "SIMO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "239.34",
+      "vol_24h_usdt": "151.86"
+    },
+    "SKDD": {
+      "instId": "SKDD-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "9.7",
+      "vol_24h_usdt": "119220.1"
+    },
+    "SKHYNIX": {
+      "instId": "SKHYNIX-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1233.7",
+      "vol_24h_usdt": "244884.557"
+    },
+    "SKHY": {
+      "instId": "SKHY-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "165.77",
+      "vol_24h_usdt": "443323.34"
+    },
+    "SKUU": {
+      "instId": "SKUU-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "23.63",
+      "vol_24h_usdt": "102632.3"
+    },
+    "SKY": {
+      "instId": "SKY-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.0696",
+      "vol_24h_usdt": "8190200"
+    },
+    "SLX": {
+      "instId": "SLX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.06831",
+      "vol_24h_usdt": "42279970"
+    },
+    "SMCI": {
+      "instId": "SMCI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "38.22",
+      "vol_24h_usdt": "21852.3"
+    },
+    "SMH": {
+      "instId": "SMH-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "557.86",
+      "vol_24h_usdt": "133.19"
+    },
+    "SNDK": {
+      "instId": "SNDK-USDT-SWAP",
+      "max_lever": "75",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1578.75",
+      "vol_24h_usdt": "781449.593"
+    },
+    "SNOW": {
+      "instId": "SNOW-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "357.77",
+      "vol_24h_usdt": "11437.11"
+    },
+    "SNX": {
+      "instId": "SNX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.2114",
+      "vol_24h_usdt": "2464276"
+    },
+    "SNXX": {
+      "instId": "SNXX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "14.46",
+      "vol_24h_usdt": "4305254.8"
+    },
+    "SOFTBANK": {
+      "instId": "SOFTBANK-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "35.17",
+      "vol_24h_usdt": "3467.4"
+    },
+    "SONY": {
+      "instId": "SONY-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "24.92",
+      "vol_24h_usdt": "1079.4"
+    },
+    "SOON": {
+      "instId": "SOON-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1911",
+      "vol_24h_usdt": "1778986"
+    },
+    "SOPH": {
+      "instId": "SOPH-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.003875",
+      "vol_24h_usdt": "275684200"
+    },
+    "SOXL": {
+      "instId": "SOXL-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "109.84",
+      "vol_24h_usdt": "1764741.6"
+    },
+    "SOXS": {
+      "instId": "SOXS-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "50.14",
+      "vol_24h_usdt": "162766.1"
+    },
+    "SPACE": {
+      "instId": "SPACE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.005016",
+      "vol_24h_usdt": "151022800"
+    },
+    "SPCX": {
+      "instId": "SPCX-USDT-SWAP",
+      "max_lever": "75",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "151.06",
+      "vol_24h_usdt": "1831599.03"
+    },
+    "SPCH": {
+      "instId": "SPCH-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "10.24",
+      "vol_24h_usdt": "42843"
+    },
+    "SPK": {
+      "instId": "SPK-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.02036",
+      "vol_24h_usdt": "457680400"
+    },
+    "SPX": {
+      "instId": "SPX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.6021",
+      "vol_24h_usdt": "4652449"
+    },
+    "SPY": {
+      "instId": "SPY-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "774.09",
+      "vol_24h_usdt": "2626.15"
+    },
+    "SQQQ": {
+      "instId": "SQQQ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "38.08",
+      "vol_24h_usdt": "16869.5"
+    },
+    "SSV": {
+      "instId": "SSV-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "2.979",
+      "vol_24h_usdt": "468071.4"
+    },
+    "STABLE": {
+      "instId": "STABLE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.02843",
+      "vol_24h_usdt": "9852000"
+    },
+    "STRK": {
+      "instId": "STRK-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02715",
+      "vol_24h_usdt": "145994999"
+    },
+    "STRC": {
+      "instId": "STRC-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "97.76",
+      "vol_24h_usdt": "985.9"
+    },
+    "STX": {
+      "instId": "STX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.2731",
+      "vol_24h_usdt": "38955218"
+    },
+    "SUI": {
+      "instId": "SUI-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.7728",
+      "vol_24h_usdt": "138847400"
+    },
+    "SUSHI": {
+      "instId": "SUSHI-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.1989",
+      "vol_24h_usdt": "16302641"
+    },
+    "SYRUP": {
+      "instId": "SYRUP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.2058",
+      "vol_24h_usdt": "7450990"
+    },
+    "TAO": {
+      "instId": "TAO-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "230",
+      "vol_24h_usdt": "126627.54"
+    },
+    "TER": {
+      "instId": "TER-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "344.29",
+      "vol_24h_usdt": "257.72"
+    },
+    "THETA": {
+      "instId": "THETA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.1773",
+      "vol_24h_usdt": "2746969"
+    },
+    "TIA": {
+      "instId": "TIA-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.3614",
+      "vol_24h_usdt": "11453750"
+    },
+    "TMF": {
+      "instId": "TMF-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "30.91",
+      "vol_24h_usdt": "909.6"
+    },
+    "GRAM": {
+      "instId": "GRAM-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1.375",
+      "vol_24h_usdt": "3917808"
+    },
+    "TQQQ": {
+      "instId": "TQQQ-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "72.7",
+      "vol_24h_usdt": "59702.4"
+    },
+    "TRB": {
+      "instId": "TRB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "17.67",
+      "vol_24h_usdt": "336228.3"
+    },
+    "TRIA": {
+      "instId": "TRIA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.004642",
+      "vol_24h_usdt": "3034910700"
+    },
+    "TRUMP": {
+      "instId": "TRUMP-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "2.382",
+      "vol_24h_usdt": "163809484.3"
+    },
+    "TRUST": {
+      "instId": "TRUST-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05363",
+      "vol_24h_usdt": "4008040"
+    },
+    "TRUTH": {
+      "instId": "TRUTH-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.012376",
+      "vol_24h_usdt": "4778200"
+    },
+    "TRX": {
+      "instId": "TRX-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1000",
+      "ct_mult": "1",
+      "last": "0.32858",
+      "vol_24h_usdt": "48431050"
+    },
+    "TSEM": {
+      "instId": "TSEM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "207.96",
+      "vol_24h_usdt": "182.59"
+    },
+    "TSLA": {
+      "instId": "TSLA-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "371.04",
+      "vol_24h_usdt": "145983.04"
+    },
+    "TSLL": {
+      "instId": "TSLL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "10.077",
+      "vol_24h_usdt": "61763"
+    },
+    "TSM": {
+      "instId": "TSM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "418.55",
+      "vol_24h_usdt": "3758.27"
+    },
+    "TTMI": {
+      "instId": "TTMI-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "116.16",
+      "vol_24h_usdt": "360.35"
+    },
+    "TTWO": {
+      "instId": "TTWO-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "215.38",
+      "vol_24h_usdt": "466.01"
+    },
+    "TURBO": {
+      "instId": "TURBO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10000",
+      "ct_mult": "1",
+      "last": "0.0009787",
+      "vol_24h_usdt": "1450171000"
+    },
+    "TWLO": {
+      "instId": "TWLO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "240.19",
+      "vol_24h_usdt": "225.21"
+    },
+    "UB": {
+      "instId": "UB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.12321",
+      "vol_24h_usdt": "43024700"
+    },
+    "UMA": {
+      "instId": "UMA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.373",
+      "vol_24h_usdt": "1503244"
+    },
+    "UNH": {
+      "instId": "UNH-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "399.76",
+      "vol_24h_usdt": "145.71"
+    },
+    "UNI": {
+      "instId": "UNI-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "6.23",
+      "vol_24h_usdt": "42425355"
+    },
+    "UNITREE": {
+      "instId": "UNITREE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "81.86",
+      "vol_24h_usdt": "132416"
+    },
+    "UP": {
+      "instId": "UP-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.4764",
+      "vol_24h_usdt": "2295560"
+    },
+    "URNM": {
+      "instId": "URNM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "57.06",
+      "vol_24h_usdt": "645.7"
+    },
+    "USAR": {
+      "instId": "USAR-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "17.83",
+      "vol_24h_usdt": "27108.8"
+    },
+    "USDC": {
+      "instId": "USDC-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.999727",
+      "vol_24h_usdt": "23360"
+    },
+    "USELESS": {
+      "instId": "USELESS-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.22106",
+      "vol_24h_usdt": "1802186950"
+    },
+    "USO": {
+      "instId": "USO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "140.95",
+      "vol_24h_usdt": "1962.09"
+    },
+    "UVXY": {
+      "instId": "UVXY-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "17.34",
+      "vol_24h_usdt": "13430.6"
+    },
+    "VANA": {
+      "instId": "VANA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "0.9672",
+      "vol_24h_usdt": "902139.8"
+    },
+    "VIRTUAL": {
+      "instId": "VIRTUAL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.6882",
+      "vol_24h_usdt": "7559432"
+    },
+    "VRT": {
+      "instId": "VRT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "272.49",
+      "vol_24h_usdt": "459.5"
+    },
+    "VVV": {
+      "instId": "VVV-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "17.124",
+      "vol_24h_usdt": "117208.5"
+    },
+    "W": {
+      "instId": "W-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.009862",
+      "vol_24h_usdt": "118119391"
+    },
+    "WAL": {
+      "instId": "WAL-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.02534",
+      "vol_24h_usdt": "7824150"
+    },
+    "WCT": {
+      "instId": "WCT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.03731",
+      "vol_24h_usdt": "4265610"
+    },
+    "WDC": {
+      "instId": "WDC-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "448.01",
+      "vol_24h_usdt": "7097.5"
+    },
+    "WEN": {
+      "instId": "WEN-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "7.897",
+      "vol_24h_usdt": "5909"
+    },
+    "WET": {
+      "instId": "WET-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0614",
+      "vol_24h_usdt": "5079650"
+    },
+    "WIF": {
+      "instId": "WIF-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.2132",
+      "vol_24h_usdt": "41047004"
+    },
+    "WLD": {
+      "instId": "WLD-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.394",
+      "vol_24h_usdt": "210199455"
+    },
+    "WLFI": {
+      "instId": "WLFI-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.0583",
+      "vol_24h_usdt": "159838520"
+    },
+    "WMT": {
+      "instId": "WMT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "108.39",
+      "vol_24h_usdt": "769.82"
+    },
+    "WOO": {
+      "instId": "WOO-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.01139",
+      "vol_24h_usdt": "52243230"
+    },
+    "XAG": {
+      "instId": "XAG-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.01",
+      "ct_mult": "1",
+      "last": "66.65",
+      "vol_24h_usdt": "924373.03"
+    },
+    "XAU": {
+      "instId": "XAU-USDT-SWAP",
+      "max_lever": "100",
+      "ct_val": "0.001",
+      "ct_mult": "1",
+      "last": "4471.6",
+      "vol_24h_usdt": "105598.422"
+    },
+    "XBI": {
+      "instId": "XBI-USDT-SWAP",
+      "max_lever": "25",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "164.67",
+      "vol_24h_usdt": "127.23"
+    },
+    "XCU": {
+      "instId": "XCU-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "6.6716",
+      "vol_24h_usdt": "77401"
+    },
+    "XIAOMI": {
+      "instId": "XIAOMI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "3.621",
+      "vol_24h_usdt": "898903"
+    },
+    "XLE": {
+      "instId": "XLE-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "64.63",
+      "vol_24h_usdt": "920.2"
+    },
+    "XLM": {
+      "instId": "XLM-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.18354",
+      "vol_24h_usdt": "84385510"
+    },
+    "XPL": {
+      "instId": "XPL-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.09394",
+      "vol_24h_usdt": "535820140"
+    },
+    "XPT": {
+      "instId": "XPT-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.001",
+      "ct_mult": "1",
+      "last": "1807.9",
+      "vol_24h_usdt": "428.695"
+    },
+    "XTZ": {
+      "instId": "XTZ-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.2283",
+      "vol_24h_usdt": "2423717"
+    },
+    "YB": {
+      "instId": "YB-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.09565",
+      "vol_24h_usdt": "2043673"
+    },
+    "YFI": {
+      "instId": "YFI-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "0.0001",
+      "ct_mult": "1",
+      "last": "2289",
+      "vol_24h_usdt": "346.5023"
+    },
+    "YGG": {
+      "instId": "YGG-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.02286",
+      "vol_24h_usdt": "18634255"
+    },
+    "ZAMA": {
+      "instId": "ZAMA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.05393",
+      "vol_24h_usdt": "126029690"
+    },
+    "ZBT": {
+      "instId": "ZBT-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "0.08327",
+      "vol_24h_usdt": "11046822"
+    },
+    "ZEN": {
+      "instId": "ZEN-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.1",
+      "ct_mult": "1",
+      "last": "6.271",
+      "vol_24h_usdt": "754847.9"
+    },
+    "ZETA": {
+      "instId": "ZETA-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.03404",
+      "vol_24h_usdt": "10788950"
+    },
+    "ZHIPU": {
+      "instId": "ZHIPU-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "140.28",
+      "vol_24h_usdt": "29983.22"
+    },
+    "ZIL": {
+      "instId": "ZIL-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "100",
+      "ct_mult": "1",
+      "last": "0.00275",
+      "vol_24h_usdt": "158122100"
+    },
+    "ZK": {
+      "instId": "ZK-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.009348",
+      "vol_24h_usdt": "154397050"
+    },
+    "ZKP": {
+      "instId": "ZKP-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.04549",
+      "vol_24h_usdt": "70757800"
+    },
+    "ZM": {
+      "instId": "ZM-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "98",
+      "vol_24h_usdt": "618.3"
+    },
+    "ZORA": {
+      "instId": "ZORA-USDT-SWAP",
+      "max_lever": "10",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.007412",
+      "vol_24h_usdt": "840433360"
+    },
+    "ZRO": {
+      "instId": "ZRO-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "1.1296",
+      "vol_24h_usdt": "8645341"
+    },
+    "ZRX": {
+      "instId": "ZRX-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "10",
+      "ct_mult": "1",
+      "last": "0.10031",
+      "vol_24h_usdt": "3491920"
+    },
+    "XPD": {
+      "instId": "XPD-USDT-SWAP",
+      "max_lever": "50",
+      "ct_val": "0.001",
+      "ct_mult": "1",
+      "last": "1411.6",
+      "vol_24h_usdt": "607.635"
+    },
+    "EWT": {
+      "instId": "EWT-USDT-SWAP",
+      "max_lever": "20",
+      "ct_val": "1",
+      "ct_mult": "1",
+      "last": "110.27",
+      "vol_24h_usdt": "399.13"
+    },
+    "JP225": {
+      "instId": "JP225-USDT-SWAP",
+      "max_lever": "",
+      "ct_val": "",
+      "ct_mult": "",
+      "last": null,
+      "vol_24h_usdt": null
+    },
+    "GPRO": {
+      "instId": "GPRO-USDT-SWAP",
+      "max_lever": "",
+      "ct_val": "",
+      "ct_mult": "",
+      "last": null,
+      "vol_24h_usdt": null
+    }
+  }
+}

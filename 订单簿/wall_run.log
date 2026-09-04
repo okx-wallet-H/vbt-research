@@ -1,0 +1,159 @@
+[12:30:39] 启动碰墙事件研究。RUN_SECONDS=3300 (55.0 分钟)
+[12:30:39] 监控墙：
+[12:30:39]   [task] DOT-USDT-SWAP 阻力 0.87850 (DOT阻力墙0.8785)
+[12:30:39]   [task] DOT-USDT-SWAP 支撑 0.87310 (DOT支撑墙0.8731)
+[12:30:39]   [task] SOL-USDT-SWAP 支撑 102.00000 (SOL支撑墙102.00)
+[12:30:39]   [task] SOL-USDT-SWAP 阻力 103.88000 (SOL阻力墙103.88)
+[12:30:39] 心跳 | DOT-USDT-SWAP mid=NA last=NA | SOL-USDT-SWAP mid=NA last=NA | DOT阻力墙0.8785 qty=0 armed | DOT支撑墙0.8731 qty=0 armed | SOL支撑墙102.00 qty=0 armed | SOL阻力墙103.88 qty=0 armed
+[12:30:39] WS 已连接并订阅 books + trades
+[12:30:50] 碰墙 2026-09-04 12:30:50 | DOT阻力墙0.8785 | 墙 0.87850 现价 0.87890 | 墙量 0 | 从上方
+[12:31:40] 已重订阅 books（强制刷新快照）
+[12:31:40] 心跳 | DOT-USDT-SWAP mid=0.87825 last=0.87830 | SOL-USDT-SWAP mid=104.19500 last=104.20000 | DOT阻力墙0.8785 qty=7746 fired | DOT支撑墙0.8731 qty=9159 armed | SOL支撑墙102.00 qty=51246 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙0.8812 qty=13693 armed | 动态买墙0.8770 qty=54998 armed | 动态卖墙104.69 qty=1266 armed | 动态买墙103.83 qty=13487 armed
+[12:32:40] 心跳 | DOT-USDT-SWAP mid=0.87865 last=0.87870 | SOL-USDT-SWAP mid=104.19500 last=104.19000 | DOT阻力墙0.8785 qty=449 fired | DOT支撑墙0.8731 qty=21074 armed | SOL支撑墙102.00 qty=51587 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙0.8812 qty=10637 armed | 动态买墙0.8770 qty=41900 armed | 动态卖墙104.69 qty=1252 armed | 动态买墙103.83 qty=6993 armed | 动态卖墙0.8804 qty=24980 armed | 动态买墙0.8763 qty=170924 armed | 动态卖墙104.61 qty=8281 armed | 动态买墙103.20 qty=17052 armed
+[12:33:40] 心跳 | DOT-USDT-SWAP mid=0.87805 last=0.87810 | SOL-USDT-SWAP mid=104.12500 last=104.12000 | DOT阻力墙0.8785 qty=11885 fired | DOT支撑墙0.8731 qty=37014 armed | SOL支撑墙102.00 qty=51587 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙0.8804 qty=211524 armed | 动态买墙0.8763 qty=238210 armed | 动态卖墙104.61 qty=8479 armed | 动态买墙103.20 qty=17112 armed | 动态卖墙0.8807 qty=17160 armed | 动态买墙0.8761 qty=240156 armed | 动态买墙103.69 qty=1361 armed
+[12:34:40] 心跳 | DOT-USDT-SWAP mid=0.87835 last=0.87840 | SOL-USDT-SWAP mid=104.17500 last=104.17000 | DOT阻力墙0.8785 qty=12123 fired | DOT支撑墙0.8731 qty=6159 armed | SOL支撑墙102.00 qty=51587 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙0.8804 qty=215176 armed | 动态买墙0.8763 qty=221003 armed | 动态卖墙104.61 qty=8284 armed | 动态买墙103.20 qty=17112 armed | 动态卖墙0.8807 qty=14180 armed | 动态买墙0.8761 qty=220903 armed | 动态买墙103.69 qty=1081 armed
+[12:35:40] 心跳 | DOT-USDT-SWAP mid=0.87805 last=0.87800 | SOL-USDT-SWAP mid=104.10500 last=104.10000 | DOT阻力墙0.8785 qty=29822 fired | DOT支撑墙0.8731 qty=7876 armed | SOL支撑墙102.00 qty=51588 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙0.8804 qty=15432 armed | 动态买墙0.8763 qty=37432 armed | 动态卖墙104.61 qty=7819 armed | 动态买墙103.20 qty=17021 armed
+[12:35:45] 清理 4 堵过期动态墙
+[12:36:41] 已重订阅 books（强制刷新快照）
+[12:36:41] 心跳 | DOT-USDT-SWAP mid=0.87785 last=0.87770 | SOL-USDT-SWAP mid=104.04500 last=104.05000 | DOT阻力墙0.8785 qty=21980 fired | DOT支撑墙0.8731 qty=7876 armed | SOL支撑墙102.00 qty=51597 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙0.8804 qty=15329 armed | 动态买墙0.8763 qty=76387 armed | 动态卖墙104.61 qty=4884 armed | 动态买墙103.20 qty=17031 armed | 动态卖墙0.8799 qty=238149 armed | 动态买墙0.8759 qty=223970 armed
+[12:37:41] 心跳 | DOT-USDT-SWAP mid=0.87775 last=0.87770 | SOL-USDT-SWAP mid=104.05500 last=104.05000 | DOT阻力墙0.8785 qty=48718 fired | DOT支撑墙0.8731 qty=138204 armed | SOL支撑墙102.00 qty=51617 armed | SOL阻力墙103.88 qty=0 armed | 动态卖墙104.61 qty=4854 armed | 动态买墙103.20 qty=17109 armed | 动态卖墙0.8799 qty=231216 armed | 动态买墙0.8759 qty=228456 armed | 动态卖墙104.23 qty=10806 armed
+[12:37:46] 清理 3 堵过期动态墙
+[12:38:37] 碰墙 2026-09-04 12:38:37 | 动态买墙0.8763 | 墙 0.87630 现价 0.87670 | 墙量 32783 | 从上方
+[12:38:41] 心跳 | DOT-USDT-SWAP mid=0.87665 last=0.87660 | SOL-USDT-SWAP mid=103.99500 last=103.99000 | DOT阻力墙0.8785 qty=252255 armed | DOT支撑墙0.8731 qty=23463 armed | SOL支撑墙102.00 qty=51199 armed | SOL阻力墙103.88 qty=0 armed | 动态买墙103.20 qty=17914 armed | 动态卖墙0.8799 qty=19676 armed | 动态买墙0.8759 qty=69016 armed | 动态卖墙104.23 qty=8054 armed
+[12:39:10] 碰墙 2026-09-04 12:39:10 | 动态买墙0.8759 | 墙 0.87590 现价 0.87630 | 墙量 36183 | 从上方
+[12:39:10] 碰墙 2026-09-04 12:39:10 | SOL阻力墙103.88 | 墙 103.88000 现价 103.93000 | 墙量 0 | 从上方
+[12:39:41] 心跳 | DOT-USDT-SWAP mid=0.87575 last=0.87580 | SOL-USDT-SWAP mid=103.90500 last=103.90000 | DOT阻力墙0.8785 qty=19516 armed | DOT支撑墙0.8731 qty=17598 armed | SOL支撑墙102.00 qty=51034 armed | SOL阻力墙103.88 qty=0 fired | 动态买墙103.20 qty=17662 armed | 动态卖墙0.8799 qty=30767 armed | 动态买墙0.8759 qty=910 fired | 动态卖墙104.23 qty=5443 armed | 动态卖墙0.8787 qty=15532 armed | 动态买墙0.8745 qty=57482 armed | 动态卖墙104.50 qty=8561 armed
+[12:39:46] 清理 2 堵过期动态墙
+[12:40:41] 心跳 | DOT-USDT-SWAP mid=0.87565 last=0.87560 | SOL-USDT-SWAP mid=103.94500 last=103.94000 | DOT阻力墙0.8785 qty=16195 armed | DOT支撑墙0.8731 qty=14735 armed | SOL支撑墙102.00 qty=51108 armed | SOL阻力墙103.88 qty=0 fired | 动态买墙103.20 qty=18423 armed | 动态卖墙0.8787 qty=13696 armed | 动态买墙0.8745 qty=101708 armed | 动态卖墙104.50 qty=8689 armed | 动态卖墙0.8775 qty=216813 armed | 动态买墙0.8738 qty=224240 armed | 动态卖墙104.09 qty=13071 armed
+[12:40:46] 清理 1 堵过期动态墙
+[12:41:42] 已重订阅 books（强制刷新快照）
+[12:41:42] 心跳 | DOT-USDT-SWAP mid=0.87515 last=0.87530 | SOL-USDT-SWAP mid=103.93500 last=103.95000 | DOT阻力墙0.8785 qty=14213 armed | DOT支撑墙0.8731 qty=182767 armed | SOL支撑墙102.00 qty=51108 armed | SOL阻力墙103.88 qty=0 fired | 动态买墙103.20 qty=18498 armed | 动态卖墙104.50 qty=8689 armed | 动态卖墙0.8775 qty=218867 armed | 动态买墙0.8738 qty=68866 armed | 动态卖墙104.09 qty=12922 armed | 动态买墙0.8736 qty=34992 armed
+[12:42:38] 碰墙 2026-09-04 12:42:38 | 动态买墙0.8745 | 墙 0.87450 现价 0.87490 | 墙量 30995 | 从上方
+[12:42:42] 心跳 | DOT-USDT-SWAP mid=0.87465 last=0.87470 | SOL-USDT-SWAP mid=103.91500 last=103.91000 | DOT阻力墙0.8785 qty=16954 armed | DOT支撑墙0.8731 qty=227247 armed | SOL支撑墙102.00 qty=51063 armed | SOL阻力墙103.88 qty=0 fired | 动态买墙103.20 qty=18503 armed | 动态卖墙104.50 qty=8773 armed | 动态卖墙0.8775 qty=162787 armed | 动态卖墙104.09 qty=14088 armed | 动态买墙0.8736 qty=67878 armed | 动态买墙0.8729 qty=224835 armed
+[12:42:47] 清理 3 堵过期动态墙
+[12:43:12] 碰墙 2026-09-04 12:43:12 | 动态买墙0.8738 | 墙 0.87380 现价 0.87420 | 墙量 20151 | 从上方
+[12:43:14] 碰墙 2026-09-04 12:43:14 | 动态买墙0.8736 | 墙 0.87360 现价 0.87400 | 墙量 18603 | 从上方
+[12:43:29] 碰墙 2026-09-04 12:43:29 | DOT支撑墙0.8731 | 墙 0.87310 现价 0.87350 | 墙量 66563 | 从上方
+[12:43:42] 心跳 | DOT-USDT-SWAP mid=0.87365 last=0.87370 | SOL-USDT-SWAP mid=103.82500 last=103.82000 | DOT阻力墙0.8785 qty=140443 armed | DOT支撑墙0.8731 qty=31879 fired | SOL支撑墙102.00 qty=51108 armed | SOL阻力墙103.88 qty=9777 fired | 动态买墙103.20 qty=19386 armed | 动态卖墙0.8775 qty=12694 armed | 动态卖墙104.09 qty=11280 armed | 动态买墙0.8729 qty=50352 armed | 动态卖墙0.8765 qty=11007 armed | 动态卖墙104.10 qty=10198 armed
+[12:43:47] 清理 2 堵过期动态墙
+[12:44:42] 心跳 | DOT-USDT-SWAP mid=0.87355 last=0.87360 | SOL-USDT-SWAP mid=103.81500 last=103.81000 | DOT阻力墙0.8785 qty=5442 armed | DOT支撑墙0.8731 qty=27694 fired | SOL支撑墙102.00 qty=51079 armed | SOL阻力墙103.88 qty=9755 fired | 动态买墙103.20 qty=19433 armed | 动态买墙0.8729 qty=47826 armed | 动态卖墙0.8765 qty=11007 armed | 动态卖墙104.10 qty=8434 armed | 动态卖墙0.8754 qty=227291 armed | 动态买墙0.8714 qty=188120 armed | 动态卖墙104.04 qty=15034 armed
+[12:44:47] 清理 1 堵过期动态墙
+[12:45:20] 碰墙 2026-09-04 12:45:20 | 动态买墙0.8729 | 墙 0.87290 现价 0.87330 | 墙量 68061 | 从上方
+[12:45:42] 心跳 | DOT-USDT-SWAP mid=0.87295 last=0.87300 | SOL-USDT-SWAP mid=103.77500 last=103.78000 | DOT阻力墙0.8785 qty=10861 armed | DOT支撑墙0.8731 qty=2347 fired | SOL支撑墙102.00 qty=51079 armed | SOL阻力墙103.88 qty=8548 fired | 动态买墙103.20 qty=19436 armed | 动态卖墙0.8754 qty=222791 armed | 动态买墙0.8714 qty=248135 armed | 动态卖墙104.04 qty=9207 armed
+[12:45:47] 清理 2 堵过期动态墙
+[12:46:43] 已重订阅 books（强制刷新快照）
+[12:46:43] 心跳 | DOT-USDT-SWAP mid=0.87310 last=0.87310 | SOL-USDT-SWAP mid=103.86500 last=103.86000 | DOT阻力墙0.8785 qty=5698 armed | DOT支撑墙0.8731 qty=10662 fired | SOL支撑墙102.00 qty=51079 armed | SOL阻力墙103.88 qty=2982 fired | 动态买墙103.20 qty=19432 armed | 动态卖墙0.8754 qty=26595 armed | 动态买墙0.8714 qty=53483 armed | 动态卖墙104.04 qty=12543 armed | 动态卖墙103.98 qty=8600 armed
+[12:46:48] 清理 2 堵过期动态墙
+[12:47:43] 心跳 | DOT-USDT-SWAP mid=0.87395 last=0.87390 | SOL-USDT-SWAP mid=103.88500 last=103.89000 | DOT阻力墙0.8785 qty=10477 armed | DOT支撑墙0.8731 qty=42715 fired | SOL支撑墙102.00 qty=51107 armed | SOL阻力墙103.88 qty=3763 fired | 动态买墙103.20 qty=19374 armed | 动态卖墙0.8754 qty=31932 armed | 动态买墙0.8714 qty=42180 armed | 动态卖墙104.04 qty=13774 armed | 动态卖墙103.98 qty=7918 armed | 动态卖墙0.8750 qty=82226 armed | 动态买墙0.8709 qty=7458 armed
+[12:47:48] 清理 3 堵过期动态墙
+[12:48:43] 心跳 | DOT-USDT-SWAP mid=0.87355 last=0.87360 | SOL-USDT-SWAP mid=103.84500 last=103.84000 | DOT阻力墙0.8785 qty=5691 armed | DOT支撑墙0.8731 qty=39360 fired | SOL支撑墙102.00 qty=51107 armed | SOL阻力墙103.88 qty=7979 fired | 动态买墙103.20 qty=19413 armed | 动态卖墙104.04 qty=13500 armed | 动态卖墙0.8750 qty=73143 armed | 动态买墙0.8709 qty=12362 armed | 动态卖墙0.8759 qty=172844 armed | 动态买墙0.8717 qty=54300 armed
+[12:49:43] 心跳 | DOT-USDT-SWAP mid=0.87355 last=0.87360 | SOL-USDT-SWAP mid=103.81500 last=103.81000 | DOT阻力墙0.8785 qty=11803 armed | DOT支撑墙0.8731 qty=28413 fired | SOL支撑墙102.00 qty=51079 armed | SOL阻力墙103.88 qty=7515 fired | 动态买墙103.20 qty=19468 armed | 动态卖墙104.04 qty=13040 armed | 动态卖墙0.8759 qty=172996 armed | 动态买墙0.8717 qty=53590 armed | 动态卖墙0.8756 qty=222978 armed | 动态买墙0.8713 qty=200315 armed
+[12:50:43] 心跳 | DOT-USDT-SWAP mid=0.87255 last=0.87260 | SOL-USDT-SWAP mid=103.79500 last=103.79000 | DOT阻力墙0.8785 qty=12210 armed | DOT支撑墙0.8731 qty=0 fired | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=8659 fired | 动态买墙103.20 qty=19463 armed | 动态卖墙104.04 qty=9821 armed | 动态卖墙0.8756 qty=16951 armed | 动态买墙0.8713 qty=30023 armed
+[12:50:48] 清理 3 堵过期动态墙
+[12:51:35] 碰墙 2026-09-04 12:51:35 | 动态买墙0.8717 | 墙 0.87170 现价 0.87210 | 墙量 39372 | 从上方
+[12:51:44] 已重订阅 books（强制刷新快照）
+[12:51:44] 心跳 | DOT-USDT-SWAP mid=0.87205 last=0.87200 | SOL-USDT-SWAP mid=103.79500 last=103.79000 | DOT阻力墙0.8785 qty=13838 armed | DOT支撑墙0.8731 qty=0 fired | SOL支撑墙102.00 qty=51221 armed | SOL阻力墙103.88 qty=10044 fired | 动态买墙103.20 qty=19478 armed | 动态卖墙104.04 qty=9823 armed | 动态卖墙0.8756 qty=16836 armed | 动态买墙0.8713 qty=60970 armed | 动态卖墙0.8748 qty=18125 armed | 动态买墙0.8706 qty=34214 armed | 动态卖墙103.99 qty=13198 armed
+[12:51:49] 清理 2 堵过期动态墙
+[12:52:44] 心跳 | DOT-USDT-SWAP mid=0.87265 last=0.87260 | SOL-USDT-SWAP mid=103.79500 last=103.79000 | DOT阻力墙0.8785 qty=15018 armed | DOT支撑墙0.8731 qty=0 fired | SOL支撑墙102.00 qty=51221 armed | SOL阻力墙103.88 qty=8481 fired | 动态买墙103.20 qty=21747 armed | 动态卖墙0.8748 qty=169260 armed | 动态买墙0.8706 qty=37988 armed | 动态卖墙103.99 qty=12957 armed | 动态卖墙0.8739 qty=35183 armed | 动态买墙0.8700 qty=262505 armed
+[12:52:49] 清理 2 堵过期动态墙
+[12:53:44] 心跳 | DOT-USDT-SWAP mid=0.87295 last=0.87290 | SOL-USDT-SWAP mid=103.85500 last=103.85000 | DOT阻力墙0.8785 qty=14258 armed | DOT支撑墙0.8731 qty=3414 fired | SOL支撑墙102.00 qty=51248 armed | SOL阻力墙103.88 qty=5807 fired | 动态买墙103.20 qty=19378 armed | 动态卖墙103.99 qty=9512 armed | 动态卖墙0.8739 qty=80557 armed | 动态买墙0.8700 qty=48823 armed | 动态卖墙0.8745 qty=88880 armed | 动态买墙0.8705 qty=170903 armed | 动态卖墙104.10 qty=6712 armed
+[12:54:44] 心跳 | DOT-USDT-SWAP mid=0.87295 last=0.87300 | SOL-USDT-SWAP mid=103.84500 last=103.84000 | DOT阻力墙0.8785 qty=14097 armed | DOT支撑墙0.8731 qty=522 fired | SOL支撑墙102.00 qty=51249 armed | SOL阻力墙103.88 qty=8847 fired | 动态买墙103.20 qty=19389 armed | 动态卖墙0.8745 qty=88880 armed | 动态买墙0.8705 qty=170515 armed | 动态卖墙104.10 qty=6456 armed | 动态卖墙0.8749 qty=225714 armed | 动态买墙0.8708 qty=179812 armed | 动态卖墙104.06 qty=11867 armed
+[12:54:49] 清理 3 堵过期动态墙
+[12:55:24] 碰墙 2026-09-04 12:55:24 | 动态卖墙0.8739 | 墙 0.87390 现价 0.87350 | 墙量 31607 | 从下方
+[12:55:35] 碰墙 2026-09-04 12:55:35 | 动态卖墙103.99 | 墙 103.99000 现价 103.94000 | 墙量 8423 | 从下方
+[12:55:44] 心跳 | DOT-USDT-SWAP mid=0.87345 last=0.87330 | SOL-USDT-SWAP mid=103.93500 last=103.93000 | DOT阻力墙0.8785 qty=6677 armed | DOT支撑墙0.8731 qty=35361 fired | SOL支撑墙102.00 qty=51221 armed | SOL阻力墙103.88 qty=0 fired | 动态买墙103.20 qty=4548 armed | 动态卖墙0.8749 qty=243508 armed | 动态买墙0.8708 qty=18794 armed | 动态卖墙104.06 qty=7646 armed
+[12:55:49] 清理 2 堵过期动态墙
+[12:56:45] 已重订阅 books（强制刷新快照）
+[12:56:45] 心跳 | DOT-USDT-SWAP mid=0.87355 last=0.87340 | SOL-USDT-SWAP mid=103.86500 last=103.86000 | DOT阻力墙0.8785 qty=5765 armed | DOT支撑墙0.8731 qty=50232 fired | SOL支撑墙102.00 qty=51251 armed | SOL阻力墙103.88 qty=2882 fired | 动态买墙103.20 qty=4563 armed | 动态卖墙0.8749 qty=66567 armed | 动态买墙0.8708 qty=14189 armed | 动态卖墙104.06 qty=12456 armed | 动态买墙0.8713 qty=185097 armed | 动态卖墙104.13 qty=8138 armed | 动态买墙103.55 qty=5730 armed
+[12:56:50] 清理 3 堵过期动态墙
+[12:57:45] 心跳 | DOT-USDT-SWAP mid=0.87375 last=0.87370 | SOL-USDT-SWAP mid=103.85500 last=103.85000 | DOT阻力墙0.8785 qty=4339 armed | DOT支撑墙0.8731 qty=73696 fired | SOL支撑墙102.00 qty=51251 armed | SOL阻力墙103.88 qty=4659 fired | 动态卖墙0.8749 qty=267078 armed | 动态买墙0.8713 qty=219823 armed | 动态卖墙104.13 qty=6663 armed | 动态买墙103.55 qty=5759 armed | 动态卖墙0.8756 qty=27239 armed | 动态卖墙104.07 qty=13115 armed | 动态买墙103.69 qty=13952 armed
+[12:57:50] 清理 3 堵过期动态墙
+[12:58:45] 心跳 | DOT-USDT-SWAP mid=0.87325 last=0.87330 | SOL-USDT-SWAP mid=103.82500 last=103.82000 | DOT阻力墙0.8785 qty=15580 armed | DOT支撑墙0.8731 qty=24999 fired | SOL支撑墙102.00 qty=51223 armed | SOL阻力墙103.88 qty=7616 fired | 动态买墙0.8713 qty=226617 armed | 动态卖墙0.8756 qty=228685 armed | 动态卖墙104.07 qty=10174 armed | 动态买墙103.69 qty=13249 armed | 动态卖墙0.8752 qty=93476 armed
+[12:59:45] 心跳 | DOT-USDT-SWAP mid=0.87375 last=0.87370 | SOL-USDT-SWAP mid=103.83500 last=103.83000 | DOT阻力墙0.8785 qty=15928 armed | DOT支撑墙0.8731 qty=48791 fired | SOL支撑墙102.00 qty=51223 armed | SOL阻力墙103.88 qty=7308 fired | 动态买墙0.8713 qty=16670 armed | 动态买墙103.55 qty=6625 armed | 动态卖墙0.8756 qty=27401 armed | 动态卖墙104.07 qty=9621 armed | 动态买墙103.69 qty=12744 armed | 动态卖墙0.8752 qty=236794 armed | 动态卖墙104.01 qty=12118 armed
+[12:59:50] 清理 3 堵过期动态墙
+[13:00:12] 碰墙 2026-09-04 13:00:12 | 动态买墙103.69 | 墙 103.69000 现价 103.74000 | 墙量 9847 | 从上方
+[13:00:45] 心跳 | DOT-USDT-SWAP mid=0.87225 last=0.87230 | SOL-USDT-SWAP mid=103.68500 last=103.68000 | DOT阻力墙0.8785 qty=25598 armed | DOT支撑墙0.8731 qty=0 fired | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=11172 armed | 动态买墙0.8713 qty=63338 armed | 动态买墙103.55 qty=16968 armed | 动态卖墙0.8756 qty=17531 armed | 动态买墙103.69 qty=1372 fired | 动态卖墙104.01 qty=5062 armed | 动态卖墙0.8751 qty=14873 armed | 动态买墙0.8716 qty=39585 armed
+[13:00:50] 清理 2 堵过期动态墙
+[13:01:46] 已重订阅 books（强制刷新快照）
+[13:01:46] 心跳 | DOT-USDT-SWAP mid=0.87275 last=0.87280 | SOL-USDT-SWAP mid=103.65500 last=103.66000 | DOT阻力墙0.8785 qty=15059 armed | DOT支撑墙0.8731 qty=0 fired | SOL支撑墙102.00 qty=51224 armed | SOL阻力墙103.88 qty=8009 armed | 动态买墙103.55 qty=11637 armed | 动态买墙103.69 qty=0 fired | 动态卖墙104.01 qty=4496 armed | 动态卖墙0.8751 qty=166799 armed | 动态买墙0.8716 qty=70658 armed | 动态卖墙0.8746 qty=28171 armed | 动态买墙0.8700 qty=208339 armed | 动态卖墙103.90 qty=8118 armed
+[13:02:46] 心跳 | DOT-USDT-SWAP mid=0.87365 last=0.87360 | SOL-USDT-SWAP mid=103.72500 last=103.72000 | DOT阻力墙0.8785 qty=16278 armed | DOT支撑墙0.8731 qty=35505 fired | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=9059 armed | 动态买墙103.55 qty=17117 armed | 动态卖墙0.8746 qty=126691 armed | 动态买墙0.8700 qty=51851 armed | 动态卖墙103.90 qty=12832 armed | 动态卖墙0.8750 qty=244773 armed | 动态买墙0.8705 qty=14729 armed | 动态卖墙103.84 qty=8252 armed
+[13:02:51] 清理 2 堵过期动态墙
+[13:03:46] 心跳 | DOT-USDT-SWAP mid=0.87365 last=0.87370 | SOL-USDT-SWAP mid=103.73500 last=103.74000 | DOT阻力墙0.8785 qty=16573 armed | DOT支撑墙0.8731 qty=71333 fired | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=8377 armed | 动态买墙103.55 qty=13054 armed | 动态卖墙0.8750 qty=41015 armed | 动态买墙0.8705 qty=39674 armed | 动态卖墙103.84 qty=8142 armed | 动态买墙0.8714 qty=25093 armed | 动态卖墙103.91 qty=11250 armed | 动态买墙103.30 qty=4098 armed
+[13:03:51] 清理 2 堵过期动态墙
+[13:04:14] 碰墙 2026-09-04 13:04:14 | 动态卖墙0.8746 | 墙 0.87460 现价 0.87420 | 墙量 33232 | 从下方
+[13:04:15] 碰墙 2026-09-04 13:04:15 | 动态卖墙0.8750 | 墙 0.87500 现价 0.87460 | 墙量 52445 | 从下方
+[13:04:15] 碰墙 2026-09-04 13:04:15 | 动态卖墙0.8751 | 墙 0.87510 现价 0.87470 | 墙量 59076 | 从下方
+[13:04:46] 心跳 | DOT-USDT-SWAP mid=0.87495 last=0.87500 | SOL-USDT-SWAP mid=103.71500 last=103.71000 | DOT阻力墙0.8785 qty=24072 armed | DOT支撑墙0.8731 qty=52777 armed | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=9068 armed | 动态买墙103.55 qty=17081 armed | 动态卖墙0.8750 qty=3811 fired | 动态买墙0.8714 qty=7055 armed | 动态卖墙103.91 qty=12430 armed | 动态买墙103.30 qty=5230 armed | 动态卖墙0.8757 qty=23784 armed | 动态买墙0.8717 qty=10551 armed
+[13:04:49] 碰墙 2026-09-04 13:04:49 | 动态卖墙0.8757 | 墙 0.87570 现价 0.87530 | 墙量 64593 | 从下方
+[13:04:51] 清理 4 堵过期动态墙
+[13:05:46] 心跳 | DOT-USDT-SWAP mid=0.87630 last=0.87640 | SOL-USDT-SWAP mid=103.72500 last=103.72000 | DOT阻力墙0.8785 qty=170084 armed | DOT支撑墙0.8731 qty=31244 armed | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=8607 armed | 动态买墙103.55 qty=16398 armed | 动态卖墙103.91 qty=11780 armed | 动态卖墙0.8757 qty=0 fired | 动态买墙0.8717 qty=3739 armed | 动态卖墙0.8774 qty=28914 armed | 动态买墙0.8726 qty=21198 armed
+[13:05:51] 碰墙 2026-09-04 13:05:51 | 动态卖墙0.8774 | 墙 0.87740 现价 0.87700 | 墙量 7141 | 从下方
+[13:05:51] 清理 3 堵过期动态墙
+[13:06:06] 碰墙 2026-09-04 13:06:06 | 动态卖墙0.8757 | 墙 0.87570 现价 0.87610 | 墙量 0 | 从上方
+[13:06:47] 已重订阅 books（强制刷新快照）
+[13:06:47] 心跳 | DOT-USDT-SWAP mid=0.87675 last=0.87680 | SOL-USDT-SWAP mid=103.73500 last=103.73000 | DOT阻力墙0.8785 qty=184560 armed | DOT支撑墙0.8731 qty=23345 armed | SOL支撑墙102.00 qty=51253 armed | SOL阻力墙103.88 qty=7628 armed | 动态买墙103.55 qty=16425 armed | 动态卖墙103.91 qty=12204 armed | 动态卖墙0.8774 qty=28778 armed | 动态买墙0.8726 qty=18809 armed | 动态卖墙0.8792 qty=10380 armed | 动态买墙0.8735 qty=6759 armed | 动态卖墙103.93 qty=12858 armed
+[13:06:52] 清理 2 堵过期动态墙
+[13:07:03] 碰墙 2026-09-04 13:07:03 | 动态卖墙0.8774 | 墙 0.87740 现价 0.87700 | 墙量 25053 | 从下方
+[13:07:47] 心跳 | DOT-USDT-SWAP mid=0.87655 last=0.87660 | SOL-USDT-SWAP mid=103.78500 last=103.78000 | DOT阻力墙0.8785 qty=248605 armed | DOT支撑墙0.8731 qty=23607 armed | SOL支撑墙102.00 qty=51253 armed | SOL阻力墙103.88 qty=7756 armed | 动态买墙103.55 qty=12545 armed | 动态卖墙0.8792 qty=14110 armed | 动态买墙0.8735 qty=8202 armed | 动态卖墙103.93 qty=9958 armed | 动态卖墙0.8782 qty=94154 armed | 动态买墙0.8746 qty=236936 armed
+[13:07:52] 清理 3 堵过期动态墙
+[13:08:32] 碰墙 2026-09-04 13:08:32 | SOL阻力墙103.88 | 墙 103.88000 现价 103.83000 | 墙量 6239 | 从下方
+[13:08:32] 碰墙 2026-09-04 13:08:32 | 动态卖墙103.91 | 墙 103.91000 现价 103.86000 | 墙量 5594 | 从下方
+[13:08:47] 心跳 | DOT-USDT-SWAP mid=0.87715 last=0.87710 | SOL-USDT-SWAP mid=103.86500 last=103.86000 | DOT阻力墙0.8785 qty=83947 armed | DOT支撑墙0.8731 qty=23619 armed | SOL支撑墙102.00 qty=51253 armed | SOL阻力墙103.88 qty=3097 fired | 动态买墙103.55 qty=7491 armed | 动态卖墙103.93 qty=10142 armed | 动态卖墙0.8782 qty=77532 armed | 动态买墙0.8746 qty=220358 armed | 动态卖墙0.8787 qty=72374 armed | 动态卖墙104.00 qty=13088 armed | 动态买墙103.65 qty=10353 armed
+[13:08:52] 清理 2 堵过期动态墙
+[13:09:23] 碰墙 2026-09-04 13:09:23 | 动态卖墙0.8782 | 墙 0.87820 现价 0.87780 | 墙量 87705 | 从下方
+[13:09:47] 心跳 | DOT-USDT-SWAP mid=0.87665 last=0.87670 | SOL-USDT-SWAP mid=103.78500 last=103.78000 | DOT阻力墙0.8785 qty=106746 armed | DOT支撑墙0.8731 qty=23619 armed | SOL支撑墙102.00 qty=51226 armed | SOL阻力墙103.88 qty=7151 fired | 动态买墙0.8746 qty=221654 armed | 动态卖墙0.8787 qty=227335 armed | 动态卖墙104.00 qty=6424 armed | 动态买墙103.65 qty=7101 armed | 动态卖墙0.8793 qty=10077 armed
+[13:09:52] 清理 3 堵过期动态墙
+[13:10:47] 心跳 | DOT-USDT-SWAP mid=0.87725 last=0.87720 | SOL-USDT-SWAP mid=103.79500 last=103.79000 | DOT阻力墙0.8785 qty=137048 armed | DOT支撑墙0.8731 qty=5887 armed | SOL支撑墙102.00 qty=51220 armed | SOL阻力墙103.88 qty=9995 fired | 动态买墙103.55 qty=11585 armed | 动态买墙0.8746 qty=216228 armed | 动态卖墙104.00 qty=6452 armed | 动态买墙103.65 qty=7069 armed | 动态卖墙0.8793 qty=14604 armed | 动态卖墙0.8788 qty=232099 armed | 动态卖墙103.94 qty=12602 armed
+[13:10:52] 清理 2 堵过期动态墙
+[13:10:54] 碰墙 2026-09-04 13:10:54 | 动态卖墙0.8782 | 墙 0.87820 现价 0.87780 | 墙量 36534 | 从下方
+[13:11:34] 碰墙 2026-09-04 13:11:34 | 动态买墙103.65 | 墙 103.65000 现价 103.70000 | 墙量 5204 | 从上方
+[13:11:48] 已重订阅 books（强制刷新快照）
+[13:11:48] 心跳 | DOT-USDT-SWAP mid=0.87615 last=0.87620 | SOL-USDT-SWAP mid=103.70500 last=103.70000 | DOT阻力墙0.8785 qty=25610 armed | DOT支撑墙0.8731 qty=27816 armed | SOL支撑墙102.00 qty=51220 armed | SOL阻力墙103.88 qty=10221 armed | 动态买墙103.55 qty=10763 armed | 动态买墙0.8746 qty=69893 armed | 动态卖墙0.8788 qty=23564 armed | 动态卖墙103.94 qty=10162 armed | 动态卖墙0.8796 qty=10876 armed
+[13:11:53] 清理 2 堵过期动态墙
+[13:12:48] 心跳 | DOT-USDT-SWAP mid=0.87645 last=0.87640 | SOL-USDT-SWAP mid=103.78500 last=103.78000 | DOT阻力墙0.8785 qty=179155 armed | DOT支撑墙0.8731 qty=18614 armed | SOL支撑墙102.00 qty=51220 armed | SOL阻力墙103.88 qty=9393 armed | 动态买墙103.55 qty=18262 armed | 动态买墙0.8746 qty=41962 armed | 动态卖墙103.94 qty=12477 armed | 动态卖墙0.8796 qty=10876 armed | 动态卖墙0.8780 qty=37867 armed | 动态买墙0.8742 qty=18336 armed | 动态卖墙103.88 qty=9393 armed | 动态买墙103.50 qty=5142 armed
+[13:12:53] 清理 1 堵过期动态墙
+[13:13:48] 心跳 | DOT-USDT-SWAP mid=0.87605 last=0.87610 | SOL-USDT-SWAP mid=103.75500 last=103.75000 | DOT阻力墙0.8785 qty=46961 armed | DOT支撑墙0.8731 qty=18619 armed | SOL支撑墙102.00 qty=51220 armed | SOL阻力墙103.88 qty=8583 armed | 动态卖墙0.8780 qty=243402 armed | 动态买墙0.8742 qty=182214 armed | 动态卖墙103.88 qty=8583 armed | 动态买墙103.50 qty=8250 armed | 动态卖墙0.8785 qty=46961 armed | 动态卖墙103.95 qty=12627 armed | 动态买墙103.56 qty=17397 armed
+[13:13:53] 清理 3 堵过期动态墙
+[13:14:48] 心跳 | DOT-USDT-SWAP mid=0.87635 last=0.87630 | SOL-USDT-SWAP mid=103.73500 last=103.73000 | DOT阻力墙0.8785 qty=31179 armed | DOT支撑墙0.8731 qty=18617 armed | SOL支撑墙102.00 qty=51220 armed | SOL阻力墙103.88 qty=8101 armed | 动态买墙0.8742 qty=215445 armed | 动态卖墙0.8785 qty=31179 armed | 动态卖墙103.95 qty=12271 armed | 动态买墙103.56 qty=16770 armed | 动态卖墙0.8781 qty=228329 armed | 动态买墙0.8740 qty=170735 armed | 动态卖墙104.22 qty=6706 armed
+[13:14:53] 清理 1 堵过期动态墙
+[13:15:48] 心跳 | DOT-USDT-SWAP mid=0.87700 last=0.87700 | SOL-USDT-SWAP mid=103.68500 last=103.68000 | DOT阻力墙0.8785 qty=66891 armed | DOT支撑墙0.8731 qty=18527 armed | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=12594 armed | 动态买墙103.56 qty=11491 armed | 动态卖墙0.8781 qty=83014 armed | 动态买墙0.8740 qty=167645 armed | 动态卖墙104.22 qty=2638 armed | 动态买墙0.8743 qty=182188 armed | 动态买墙103.34 qty=2611 armed
+[13:15:53] 清理 4 堵过期动态墙
+[13:15:54] 碰墙 2026-09-04 13:15:54 | 动态卖墙103.70 | 墙 103.70000 现价 103.68000 | 墙量 28063 | 从下方
+[13:16:49] 已重订阅 books（强制刷新快照）
+[13:16:49] 心跳 | DOT-USDT-SWAP mid=0.87645 last=0.87670 | SOL-USDT-SWAP mid=103.63500 last=103.63000 | DOT阻力墙0.8785 qty=251029 armed | DOT支撑墙0.8731 qty=9481 armed | SOL支撑墙102.00 qty=51222 armed | SOL阻力墙103.88 qty=8808 armed | 动态卖墙0.8781 qty=86648 armed | 动态卖墙104.22 qty=2108 armed | 动态买墙0.8743 qty=185322 armed | 动态买墙103.34 qty=3431 armed | 动态卖墙0.8790 qty=24994 armed | 动态买墙0.8748 qty=54621 armed | 动态卖墙103.70 qty=37486 fired | 动态买墙103.18 qty=4561 armed
+[13:16:54] 清理 3 堵过期动态墙
+[13:17:49] 心跳 | DOT-USDT-SWAP mid=0.87720 last=0.87720 | SOL-USDT-SWAP mid=103.74500 last=103.74000 | DOT阻力墙0.8785 qty=74654 armed | DOT支撑墙0.8731 qty=8314 armed | SOL支撑墙102.00 qty=51220 armed | SOL阻力墙103.88 qty=9018 armed | 动态卖墙0.8790 qty=230538 armed | 动态买墙0.8748 qty=190194 armed | 动态卖墙103.70 qty=0 fired | 动态买墙103.18 qty=4524 armed | 动态卖墙0.8786 qty=39335 armed | 动态买墙0.8744 qty=24555 armed | 动态买墙103.25 qty=1930 armed
+[13:17:54] 清理 3 堵过期动态墙
+[13:18:08] 碰墙 2026-09-04 13:18:08 | 动态卖墙0.8781 | 墙 0.87810 现价 0.87770 | 墙量 71429 | 从下方
+[13:18:23] 碰墙 2026-09-04 13:18:23 | SOL阻力墙103.88 | 墙 103.88000 现价 103.83000 | 墙量 9326 | 从下方
+[13:18:40] 碰墙 2026-09-04 13:18:40 | DOT阻力墙0.8785 | 墙 0.87850 现价 0.87810 | 墙量 43615 | 从下方
+[13:18:49] 心跳 | DOT-USDT-SWAP mid=0.87785 last=0.87780 | SOL-USDT-SWAP mid=103.81500 last=103.81000 | DOT阻力墙0.8785 qty=23381 fired | DOT支撑墙0.8731 qty=135842 armed | SOL支撑墙102.00 qty=51252 armed | SOL阻力墙103.88 qty=7760 fired | 动态买墙103.56 qty=13745 armed | 动态卖墙103.70 qty=0 fired | 动态卖墙0.8786 qty=63726 armed | 动态买墙0.8744 qty=25115 armed | 动态买墙103.25 qty=1309 armed | 动态卖墙0.8793 qty=29451 armed | 动态买墙0.8750 qty=18354 armed | 动态卖墙104.15 qty=2963 armed
+[13:18:54] 清理 1 堵过期动态墙
+[13:19:38] 碰墙 2026-09-04 13:19:38 | 动态卖墙103.97 | 墙 103.97000 现价 103.92000 | 墙量 8625 | 从下方
+[13:19:41] 碰墙 2026-09-04 13:19:41 | 动态卖墙0.8786 | 墙 0.87860 现价 0.87820 | 墙量 38378 | 从下方
+[13:19:41] 碰墙 2026-09-04 13:19:41 | 动态卖墙0.8790 | 墙 0.87900 现价 0.87860 | 墙量 74502 | 从下方
+[13:19:42] 碰墙 2026-09-04 13:19:42 | 动态卖墙0.8793 | 墙 0.87930 现价 0.87890 | 墙量 31960 | 从下方
+[13:19:49] 心跳 | DOT-USDT-SWAP mid=0.87845 last=0.87850 | SOL-USDT-SWAP mid=103.88500 last=103.88000 | DOT阻力墙0.8785 qty=4232 fired | DOT支撑墙0.8731 qty=5555 armed | SOL支撑墙102.00 qty=51248 armed | SOL阻力墙103.88 qty=1857 fired | 动态买墙103.56 qty=7111 armed | 动态卖墙0.8793 qty=36265 fired | 动态买墙0.8750 qty=9095 armed | 动态卖墙104.15 qty=5501 armed | 动态卖墙0.8797 qty=70018 armed | 动态买墙0.8757 qty=174252 armed | 动态卖墙103.97 qty=8795 fired | 动态买墙103.22 qty=5008 armed
+[13:19:52] 碰墙 2026-09-04 13:19:52 | 动态卖墙0.8797 | 墙 0.87970 现价 0.87930 | 墙量 35353 | 从下方
+[13:19:54] 清理 4 堵过期动态墙
+[13:20:49] 心跳 | DOT-USDT-SWAP mid=0.87895 last=0.87900 | SOL-USDT-SWAP mid=103.80500 last=103.80000 | DOT阻力墙0.8785 qty=0 fired | DOT支撑墙0.8731 qty=5939 armed | SOL支撑墙102.00 qty=51275 armed | SOL阻力墙103.88 qty=9891 fired | 动态卖墙0.8797 qty=24826 armed | 动态买墙0.8757 qty=26273 armed | 动态卖墙103.97 qty=12865 armed | 动态买墙103.22 qty=4819 armed | 动态卖墙0.8807 qty=228843 armed | 动态买墙0.8760 qty=13539 armed | 动态卖墙104.49 qty=4426 armed | 动态买墙103.32 qty=7542 armed
+[13:20:54] 清理 3 堵过期动态墙
+[13:21:12] 碰墙 2026-09-04 13:21:12 | 动态卖墙0.8797 | 墙 0.87970 现价 0.87930 | 墙量 58134 | 从下方
+[13:21:50] 已重订阅 books（强制刷新快照）
+[13:21:50] 心跳 | DOT-USDT-SWAP mid=0.87945 last=0.87940 | SOL-USDT-SWAP mid=103.83500 last=103.83000 | DOT阻力墙0.8785 qty=0 fired | DOT支撑墙0.8731 qty=7283 armed | SOL支撑墙102.00 qty=51252 armed | SOL阻力墙103.88 qty=7744 fired | 动态卖墙0.8807 qty=88065 armed | 动态买墙0.8760 qty=13537 armed | 动态卖墙104.49 qty=4434 armed | 动态买墙103.32 qty=2042 armed | 动态买墙0.8766 qty=159562 armed | 动态卖墙104.25 qty=10653 armed | 动态买墙103.55 qty=11206 armed
+[13:21:55] 清理 4 堵过期动态墙
+[13:22:50] 心跳 | DOT-USDT-SWAP mid=0.87985 last=0.87980 | SOL-USDT-SWAP mid=103.84500 last=103.85000 | DOT阻力墙0.8785 qty=0 fired | DOT支撑墙0.8731 qty=6360 armed | SOL支撑墙102.00 qty=51300 armed | SOL阻力墙103.88 qty=6215 fired | 动态卖墙0.8807 qty=66672 armed | 动态买墙0.8766 qty=9721 armed | 动态卖墙104.25 qty=11056 armed | 动态买墙103.55 qty=7500 armed | 动态卖墙0.8811 qty=233567 armed | 动态买墙0.8769 qty=15399 armed | 动态买墙103.40 qty=7742 armed
+[13:22:55] 清理 4 堵过期动态墙
+[13:23:20] 碰墙 2026-09-04 13:23:20 | 动态卖墙0.8807 | 墙 0.88070 现价 0.88030 | 墙量 35693 | 从下方
+[13:23:50] 心跳 | DOT-USDT-SWAP mid=0.87985 last=0.87980 | SOL-USDT-SWAP mid=103.88500 last=103.88000 | DOT阻力墙0.8785 qty=0 armed | DOT支撑墙0.8731 qty=11807 armed | SOL支撑墙102.00 qty=51360 armed | SOL阻力墙103.88 qty=536 fired | 动态卖墙104.25 qty=11341 armed | 动态卖墙0.8811 qty=267518 armed | 动态买墙0.8769 qty=9309 armed | 动态买墙103.40 qty=7112 armed | 动态卖墙0.8814 qty=225072 armed | 动态买墙0.8752 qty=175687 armed
+[13:23:55] 清理 4 堵过期动态墙
+[13:24:41] 碰墙 2026-09-04 13:24:41 | 动态卖墙0.8811 | 墙 0.88110 现价 0.88070 | 墙量 60633 | 从下方
+[13:24:50] 心跳 | DOT-USDT-SWAP mid=0.88045 last=0.88040 | SOL-USDT-SWAP mid=103.95500 last=103.95000 | DOT阻力墙0.8785 qty=0 armed | DOT支撑墙0.8731 qty=1683 armed | SOL支撑墙102.00 qty=51330 armed | SOL阻力墙103.88 qty=0 fired | 动态卖墙104.25 qty=7098 armed | 动态买墙103.40 qty=6483 armed | 动态卖墙0.8814 qty=30476 armed | 动态买墙0.8752 qty=42352 armed | 动态卖墙0.8813 qty=27509 armed
+[13:24:55] 清理 3 堵过期动态墙
+[13:25:16] 碰墙 2026-09-04 13:25:16 | 动态卖墙0.8813 | 墙 0.88130 现价 0.88090 | 墙量 22043 | 从下方
+[13:25:16] 碰墙 2026-09-04 13:25:16 | 动态卖墙0.8814 | 墙 0.88140 现价 0.88100 | 墙量 26283 | 从下方
+[13:25:40] ======================================================================
+[13:25:40] 运行结束。事件总数: 39
+[13:25:40]    1m 判定：反弹 26 / 穿透 13 / 未定 0 / 命中率(反弹) 66.7%
+[13:25:40]    5m 判定：反弹 18 / 穿透 21 / 未定 0 / 命中率(反弹) 46.2%
+[13:25:40]   15m 判定：反弹 12 / 穿透 27 / 未定 0 / 命中率(反弹) 30.8%
